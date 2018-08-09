@@ -5,6 +5,7 @@ In terms of developer community the core question is: **are they customers or pa
 ## Table of contents
 
 [Intro](#intro)<br>
+[CommunityCanvas](#communitycanvas)<br>
 [DeveloperWants](#developerwants)<br>
 [CommunityLifecycle](#communitylifecycle)<br>
 [CommunityGettingStarted](#communitygettingstarted)<br>
@@ -21,6 +22,10 @@ In terms of developer community the core question is: **are they customers or pa
 
 - The community is about relying on others
 - Community isn't something that you can control
+
+### CommunityCanvas
+
+![](/DeveloperCommunity/Assets/CommunityCanvas.png)
 
 ### DeveloperWants
 
