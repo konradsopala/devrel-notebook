@@ -15,6 +15,7 @@ In terms of developer community the core question is: **are they customers or pa
 [IncreasingParticipation](#increasingparticipation)<br>
 [ReleasingBlogposts](#releasingblogposts)<br>
 [NewslettersEmails](#newslettersemails)<br>
+[Meetups](#meetups)<br>
 [UserGroups](#usergroups)<br>
 [Content](#content)<br>
 [Notes](#notes)<br>
@@ -89,6 +90,11 @@ Developers want to:
 ### NewslettersEmails
 
 - Being time and date consistent when sending emails/newsletter to your users is crucial
+
+### Meetups
+
+- Meetups isn’t enough. What we need is an ongoing commitment to nurture a group with a shared identity
+- Community need some shared space where they can meet after meetups
 
 ### UserGroups
 
