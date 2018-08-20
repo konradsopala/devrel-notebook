@@ -10,3 +10,4 @@ Gold wisdom about everything regarding Developer Relations
 - Developer Evangelism
 - Developer Experience
 - Developer Relations
+- Devrel Life
