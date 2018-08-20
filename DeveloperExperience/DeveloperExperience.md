@@ -6,6 +6,7 @@ Developers know how stuff works.
 
 [CoreElements](#corelements)<br>
 [DeveloperJourney](#developerjourney)<br>
+[Principles](#principles)<br>
 [Trends](#trends)<br>
 [Note](#notes)<br>
 
@@ -29,6 +30,19 @@ Developers know how stuff works.
   - Getting started (Engage)
   - Guidance (Adopt)
   - Reference (Advocate)
+  
+  
+  ### Principles
+  
+  Principles of a great developer experience
+  
+  - SDKs for many languages
+  - Dynamic and personalized docs
+  - Useful design and error codes and messages
+  - Reliability, transparency and support
+  - Backwards compatible API updates
+  - Aligned incentives with developers
+
   
   ### Trends
   
