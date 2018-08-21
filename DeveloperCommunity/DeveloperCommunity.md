@@ -10,6 +10,7 @@ In terms of developer community the core question is: **are they customers or pa
 [CommunityPersonas](#communitypersonas)<br>
 [CommunityLifecycle](#communitylifecycle)<br>
 [CommunityGettingStarted](#communitygettingstarted)<br>
+[CommunityCommitmentCurve](#communitycommitmencurve)<br>
 [ImportantQuestions](#importantquestions)<br>
 [CommunityOnboarding](#communityonboarding)<br>
 [IncreasingParticipation](#increasingparticipation)<br>
@@ -58,6 +59,10 @@ Developers want to:
 - Minimum commitment is expected from each member so set minimum expectations
 - Identify their interests and motivations
 - Remove barriers to adoption
+
+### CommunityCommitmentCurve
+
+![](/DeveloperCommunity/Assets/CommunityCommitmentCurve.png)
 
 ### ImportantQuestions
 
