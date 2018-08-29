@@ -1,9 +1,9 @@
 # Developer Relations 
 
-## Table of contents
+## Table of Contents
 
-[DeveloperRoadmap](#developerroadmap)
-[Notes](#notes)
+* [DeveloperRoadmap](#developerroadmap)<br>
+* [Notes](#notes)<br>
 
 ### DeveloperRoadmap
 
