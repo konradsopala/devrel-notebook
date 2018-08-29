@@ -1,9 +1,9 @@
 # API
 
-## Table of contents
+## Table of Contents
 
-[Principles](#principles)<br>
-[Note](#notes)<br>
+* [Principles](#principles)<br>
+* [Note](#notes)<br>
 
 ### Principles
 
