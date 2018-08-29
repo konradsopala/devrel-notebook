@@ -4,22 +4,22 @@ In terms of developer community the core question is: **are they customers or pa
 
 ## Table of contents
 
-[Intro](#intro)<br>
-[CommunityCanvas](#communitycanvas)<br>
-[DeveloperWants](#developerwants)<br>
-[CommunityPersonas](#communitypersonas)<br>
-[CommunityLifecycle](#communitylifecycle)<br>
-[CommunityGettingStarted](#communitygettingstarted)<br>
-[CommunityCommitmentCurve](#communitycommitmencurve)<br>
-[ImportantQuestions](#importantquestions)<br>
-[CommunityOnboarding](#communityonboarding)<br>
-[IncreasingParticipation](#increasingparticipation)<br>
-[ReleasingBlogposts](#releasingblogposts)<br>
-[NewslettersEmails](#newslettersemails)<br>
-[Meetups](#meetups)<br>
-[UserGroups](#usergroups)<br>
-[Content](#content)<br>
-[Notes](#notes)<br>
+* [Intro](#intro)<br>
+* [CommunityCanvas](#communitycanvas)<br>
+* [DeveloperWants](#developerwants)<br>
+* [CommunityPersonas](#communitypersonas)<br>
+* [CommunityLifecycle](#communitylifecycle)<br>
+* [CommunityGettingStarted](#communitygettingstarted)<br>
+* [CommunityCommitmentCurve](#communitycommitmencurve)<br>
+* [ImportantQuestions](#importantquestions)<br>
+* [CommunityOnboarding](#communityonboarding)<br>
+* [IncreasingParticipation](#increasingparticipation)<br>
+* [ReleasingBlogposts](#releasingblogposts)<br>
+* [NewslettersEmails](#newslettersemails)<br>
+* [Meetups](#meetups)<br>
+* [UserGroups](#usergroups)<br>
+* [Content](#content)<br>
+* [Notes](#notes)<br>
 
 ### Intro
 
