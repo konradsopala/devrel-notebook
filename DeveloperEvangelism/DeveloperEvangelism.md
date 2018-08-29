@@ -1,10 +1,10 @@
 # Developer Evangelism
 
-## Table of contents
+## Table of Contents
 
-[Intro](#intro)<br>
-[Elements](#elements)<br>
-[Core](#core)<br>
+* [Intro](#intro)<br>
+* [Elements](#elements)<br>
+* [Core](#core)<br>
 
 ### Intro
 
