@@ -1,8 +1,8 @@
 # Developer Advocacy 
 
-## Table of contents
+## Table of Contents
 
-[Notes](#notes)<br>
+* [Notes](#notes)<br>
 
 ### Notes
 
