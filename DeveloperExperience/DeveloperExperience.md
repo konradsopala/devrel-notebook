@@ -2,13 +2,13 @@
 
 Developers know how stuff works.
 
-## Table of contents
+## Table of Contents
 
-[CoreElements](#corelements)<br>
-[DeveloperJourney](#developerjourney)<br>
-[Principles](#principles)<br>
-[Trends](#trends)<br>
-[Note](#notes)<br>
+* [CoreElements](#corelements)<br>
+* [DeveloperJourney](#developerjourney)<br>
+* [Principles](#principles)<br>
+* [Trends](#trends)<br>
+* [Note](#notes)<br>
 
 ### CoreElements
 
