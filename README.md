@@ -13,3 +13,4 @@ Gold wisdom about everything regarding Developer Relations
 - Devrel Life
 - Devrel Lab
 - Hackathons
+- Docs
