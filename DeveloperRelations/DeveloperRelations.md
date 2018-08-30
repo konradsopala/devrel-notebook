@@ -3,11 +3,17 @@
 ## Table of Contents
 
 * [DeveloperRoadmap](#developerroadmap)<br>
+* [DeveloperMarketing](#developermarketing)<br>
 * [Notes](#notes)<br>
 
 ### DeveloperRoadmap
 
 **Public Roadmaps** - by sharing in advance what you’re planning with your users, you can help them make much smarter long-term decisions.
+
+### DeveloperMarketing
+
+- The Secret of Marketing to Developers is to Not Use Marketing
+- There is no Developer Marketing, only teaching, inspiring, helping
 
 ### Notes
 
