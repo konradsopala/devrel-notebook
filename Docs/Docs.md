@@ -20,3 +20,9 @@
 - How accessible?
 - How advanced?
 - How people should interact with your product?
+
+### Notes
+
+- Show people path to expertise instead of making them experts
+- **NOT** writing for yourself than writing for others
+- The audience determines what you write
