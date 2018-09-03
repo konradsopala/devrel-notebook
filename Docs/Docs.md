@@ -6,7 +6,7 @@
 * [DocsTone](#docstone)<br>
 * [Notes](#notes)<br>
 
-# DocumentationTypes
+### DocumentationTypes
 
 - Overview and value proposition
 - First-use example
@@ -14,3 +14,9 @@
 - Conceptual documentation
 - Reference documentation
 - Other informal documentation
+
+### DocsTone
+
+- How accessible?
+- How advanced?
+- How people should interact with your product?
