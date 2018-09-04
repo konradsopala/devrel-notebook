@@ -4,6 +4,7 @@
 
 * [DocumentationTypes](#documentationtypes)<br>
 * [DocsTone](#docstone)<br>
+* [ProTips](#protips)<br>
 * [Notes](#notes)<br>
 
 ### DocumentationTypes
@@ -20,6 +21,22 @@
 - How accessible?
 - How advanced?
 - How people should interact with your product?
+
+**Docs should be:**
+
+- Precursory
+- Participatory
+
+**Content should be**
+
+- Exemplary
+- Consistent
+- Current
+
+### ProTips
+
+- Begin documenting before you begin developing
+- In the documentation process, include everyone from developers to end users
 
 ### Notes
 

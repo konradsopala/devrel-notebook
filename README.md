@@ -11,6 +11,7 @@ Gold wisdom about everything regarding Developer Relations
 - Developer Experience
 - Developer Relations
 - Devrel Life
-- Devrel Lab
+- Devrel Space
 - Hackathons
+- Reports
 - Docs
