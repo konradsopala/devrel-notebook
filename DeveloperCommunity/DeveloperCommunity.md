@@ -9,6 +9,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [DeveloperWants](#developerwants)<br>
 * [CommunityPersonas](#communitypersonas)<br>
 * [CommunityLifecycle](#communitylifecycle)<br>
+* [CommunityMemberJourney](#communitymemberjourney)<br>
 * [CommunityGettingStarted](#communitygettingstarted)<br>
 * [CommunityCommitmentCurve](#communitycommitmencurve)<br>
 * [ImportantQuestions](#importantquestions)<br>
@@ -51,6 +52,19 @@ Developers want to:
 - Maturity
 - Mitosis
 - Death
+
+### CommunityMemberJourney
+
+**The journey of community member maturity**
+
+Aware -> Engaged -> Achieved
+
+**Measurements**
+- Number of members Aware
+- Number of members Engaged
+- Number of members moving from Aware to Engaged
+- Number of members Achieved
+- Number of members moving from Engaged to Achieved
 
 ### CommunityGettingStarted
 
