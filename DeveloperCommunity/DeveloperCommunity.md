@@ -136,6 +136,7 @@ The best advice to seed your community before launching it is to set-up a longer
 - Deleting content is generally safer than editing it
 - Make sure everything you send developers in mail, makes their life better
 - If you don't know an answer to a question in your FAQ, just say that
+- Successful communities explicitly define what the expectations are towards each member. If every member knows what is expected, they can contribute accordingly (or choose not to)
 - It's better to overcommunicate
 - Connect with your audience:
     - Get personal (empathy)

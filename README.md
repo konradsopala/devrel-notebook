@@ -15,3 +15,4 @@ Gold wisdom about everything regarding Developer Relations
 - Hackathons
 - Reports
 - Docs
+- Community Canvas
