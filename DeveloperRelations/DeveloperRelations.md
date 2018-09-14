@@ -5,12 +5,19 @@
 ## Table of Contents
 
 * [DeveloperRoadmap](#developerroadmap)<br>
+* [DevrelPhases](#devrelphases)<br>
 * [DeveloperMarketing](#developermarketing)<br>
 * [Notes](#notes)<br>
 
 ### DeveloperRoadmap
 
 **Public Roadmaps** - by sharing in advance what you’re planning with your users, you can help them make much smarter long-term decisions.
+
+### DevrelPhases
+
+- Understand deeply
+- Create awareness
+- Empower creativity
 
 ### DeveloperMarketing
 
