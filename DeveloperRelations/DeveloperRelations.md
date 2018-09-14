@@ -6,6 +6,7 @@
 
 * [DeveloperRoadmap](#developerroadmap)<br>
 * [DevrelPhases](#devrelphases)<br>
+* [CareModel](#caremodel)<br>
 * [DeveloperMarketing](#developermarketing)<br>
 * [Notes](#notes)<br>
 
@@ -18,6 +19,11 @@
 - Understand deeply
 - Create awareness
 - Empower creativity
+
+### CareModel
+
+![](/DeveloperRelations/IntroAssets/CareModelOne.png) 
+![](/DeveloperRelations/IntroAssets/CareModelTwo.png)
 
 ### DeveloperMarketing
 
