@@ -5,3 +5,4 @@
 - Devrel job is a very flexible one so you need to make extra effort to make it more static
 - Do not stay in front of the computer for more than 8 hours a day
 - Make short breaks every 1.5 hour
+- After finishing work: power off your notebook and leave it at home when going out
