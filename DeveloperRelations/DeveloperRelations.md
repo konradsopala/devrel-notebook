@@ -1,5 +1,7 @@
 # Developer Relations 
 
+![](/DeveloperRelations/IntroAssets/DeveloperRelations.png)
+
 ## Table of Contents
 
 * [DeveloperRoadmap](#developerroadmap)<br>
