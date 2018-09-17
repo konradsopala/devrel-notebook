@@ -5,6 +5,7 @@
 * [DocumentationTypes](#documentationtypes)<br>
 * [DocsNavigation](#docsnavigation)<br>
 * [DocsTone](#docstone)<br>
+* [ErrorMeesages](#errormessages)<br>
 * [ProTips](#protips)<br>
 * [Notes](#notes)<br>
 
@@ -48,6 +49,26 @@
 - Exemplary
 - Consistent
 - Current
+
+### ErrorMessages
+
+**Error messages should be:**
+
+- Humble
+- Human
+- Helpful
+
+**How to write error messages**
+
+- Important information first
+- Fewer words
+- Object first action second
+- Avoid passive verbs
+
+- **Acknowledge**
+- **Apologize**
+- **Explain**
+- **Help**
 
 ### ProTips
 
