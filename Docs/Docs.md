@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [DocumentationTypes](#documentationtypes)<br>
+* [DocsNavigation](#docsnavigation)<br>
 * [DocsTone](#docstone)<br>
 * [ProTips](#protips)<br>
 * [Notes](#notes)<br>
@@ -15,6 +16,21 @@
 - Conceptual documentation
 - Reference documentation
 - Other informal documentation
+
+### DocsNavigation
+
+- Group topics in product sidebars
+- Navigate from doc se to doc set
+- Allow navigation within content
+- Make popular topics easy to access
+- Reduce information fragmentation
+
+**Developer Portal Layers**
+
+- Doc Portal Homepage
+- Product Homepage
+- Section Homepage
+- Page
 
 ### DocsTone
 
