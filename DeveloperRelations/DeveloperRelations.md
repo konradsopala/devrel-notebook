@@ -43,3 +43,5 @@
 - Devs want to hear from each other
 - If you want to talk with devrel guys you have to be the devrel guy
 - Be reachable
+- Sadly enough developers don't get much credit for their work and are generally considered “deliverers” rather than “thinkers”, which is simply not true.
+- People working on products are actually not the right people to advocate them – they are far too close to the subject matter to find obvious flaws in the documentation or are fine with overly complex ways of invoking a certain functionality as they are used to them.
