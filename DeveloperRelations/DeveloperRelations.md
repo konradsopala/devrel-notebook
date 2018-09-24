@@ -1,5 +1,7 @@
 # Developer Relations 
 
+**There is no off-the record**
+
 ![](/DeveloperRelations/IntroAssets/DeveloperRelations.png)
 
 ## Table of Contents
