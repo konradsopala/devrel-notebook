@@ -42,7 +42,7 @@ Developers know how stuff works.
   - Reliability, transparency and support
   - Backwards compatible API updates
   - Aligned incentives with developers
-
+  - Quality of assets and processes available to developers
   
   ### Trends
   
