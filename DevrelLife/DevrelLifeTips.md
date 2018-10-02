@@ -6,3 +6,5 @@
 - Do not stay in front of the computer for more than 8 hours a day
 - Make short breaks every 1.5 hour
 - After finishing work: power off your notebook and leave it at home when going out
+- Sometimes it’s worth getting on a call with people to talk about nothing. Just to see what’s up
+- Remote workers shouldn’t feel guilty abut taking the time away from their desks
