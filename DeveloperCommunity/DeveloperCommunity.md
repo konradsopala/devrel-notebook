@@ -17,6 +17,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [IncreasingParticipation](#increasingparticipation)<br>
 * [ReleasingBlogposts](#releasingblogposts)<br>
 * [NewslettersEmails](#newslettersemails)<br>
+* [Hackathons](#hackathons) <br>
 * [Meetups](#meetups)<br>
 * [UserGroups](#usergroups)<br>
 * [Content](#content)<br>
@@ -109,6 +110,16 @@ Aware -> Engaged -> Achieved
 ### NewslettersEmails
 
 - Being time and date consistent when sending emails/newsletter to your users is crucial
+
+### Hackathons
+
+- Engagement with hackers after the event is super crucial in terms of your future events, especially when there are not many hackathons on the horizon
+- Great customer service for your partners - acknowledgments and detailed reports about the event. The more detailed the better!
+- Guidelines and booklets for your sponsors and partners before the event, regarding social media, promotion, the event are super useful for both you and your partners to keep consistency of your brand but also avoid fuckups!
+- Team build - marking people with colorful stickers depending on their skills, nice idea, isn't it?
+- Not revealing what prizes are and less or lack of travel reimbursments - competition is not what hackathons are about. Travel reimbursments -are you sure that you will get people who really care?
+- Diversity and inclusion at your hackathons start with organizers!
+- Arranging space - think of various adventures that you want to provide your hacker with (hacker journey during event)
 
 ### Meetups
 
