@@ -154,3 +154,6 @@ The best advice to seed your community before launching it is to set-up a longer
     - Stay on target
     - Be reachable
     - **Pay huge attention to onboarding processes**
+- Make your community indispensable to your organization
+- It's not what you say in the meeting, it's what you bring to the meeting
+- Make the community indispensable to your members
