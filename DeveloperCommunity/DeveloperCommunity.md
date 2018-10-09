@@ -15,6 +15,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [ImportantQuestions](#importantquestions)<br>
 * [CommunityOnboarding](#communityonboarding)<br>
 * [IncreasingParticipation](#increasingparticipation)<br>
+* [SuccessMetrics](#successmetrics) <br>
 * [ReleasingBlogposts](#releasingblogposts)<br>
 * [NewslettersEmails](#newslettersemails)<br>
 * [Hackathons](#hackathons) <br>
@@ -100,6 +101,12 @@ Aware -> Engaged -> Achieved
 - Access to more info, tools, resources
 - More capabilities and control
 - Swag, cool stuff
+
+### SuccessMetrics
+
+- What % of questions got answered?
+- Reduction in number of reported bugs in software
+- How many people are completing the trial and stay for more
 
 ### ReleasingBlogposts
 
