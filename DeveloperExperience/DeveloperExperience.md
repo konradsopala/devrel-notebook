@@ -56,3 +56,4 @@ Developers know how stuff works.
 - Help users get started quickly
 **Know how it feels to walk in the shoes of your audience**
 - **The number one priority for developers is support**
+- Basically everyone, but developers especially, hates the feeling that they are being sold something.
