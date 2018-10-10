@@ -132,6 +132,7 @@ Aware -> Engaged -> Achieved
 
 - Meetups isn’t enough. What we need is an ongoing commitment to nurture a group with a shared identity
 - Community need some shared space where they can meet after meetups
+- Meetups rarely involve an exchange of value
 
 ### UserGroups
 
