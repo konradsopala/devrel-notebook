@@ -6,6 +6,7 @@ Developers know how stuff works.
 
 * [CoreElements](#corelements)<br>
 * [DeveloperJourney](#developerjourney)<br>
+* [Tooling](#tooling) <br>
 * [Principles](#principles)<br>
 * [Trends](#trends)<br>
 * [Note](#notes)<br>
@@ -23,6 +24,10 @@ Developers know how stuff works.
   ### DeveloperJourney
   
   A developer journey is the route between a developer with no knowledge of a technology and the same developer that feels confident to use it in production and actively share the expertise acquired
+  
+  ### Tooling
+  
+  - Developers right now spend too much time on the tooling and workflows compared to the time they spend on software development
   
   **Developer journey stages**
   
