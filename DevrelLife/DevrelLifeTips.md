@@ -8,3 +8,4 @@
 - After finishing work: power off your notebook and leave it at home when going out
 - Sometimes it’s worth getting on a call with people to talk about nothing. Just to see what’s up
 - Remote workers shouldn’t feel guilty abut taking the time away from their desks
+- Such conferences as GitHub Universe, Google IO are purely for networking
