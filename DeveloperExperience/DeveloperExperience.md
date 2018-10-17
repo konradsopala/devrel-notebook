@@ -29,6 +29,7 @@ Developers know how stuff works.
   
   - Developers right now spend too much time on the tooling and workflows compared to the time they spend on software development
   - Shortcuts in IDEs are key in successful developer tooling
+  - IDEs utilizing code reviewing is the future (getting tid of external tools)
   
   **Developer journey stages**
   
