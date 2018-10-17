@@ -10,6 +10,7 @@
 * [DevrelPhases](#devrelphases)<br>
 * [CareModel](#caremodel)<br>
 * [DeveloperMarketing](#developermarketing)<br>
+* [Swag](#swag) <br>
 * [Notes](#notes)<br>
 
 ### DeveloperRoadmap
@@ -31,6 +32,12 @@
 
 - The Secret of Marketing to Developers is to Not Use Marketing
 - There is no Developer Marketing, only teaching, inspiring, helping
+
+### Swag
+
+- Swag options:
+  - Give out without requiring developer to do anything: extending the range of your community
+  - Give out requiring to do something: encourage, build trust, create awareness
 
 ### Notes
 
