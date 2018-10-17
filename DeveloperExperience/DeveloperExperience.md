@@ -28,6 +28,7 @@ Developers know how stuff works.
   ### Tooling
   
   - Developers right now spend too much time on the tooling and workflows compared to the time they spend on software development
+  - Shortcuts in IDEs are key in successful developer tooling
   
   **Developer journey stages**
   
