@@ -2,10 +2,11 @@
 
 ## Table of Contents
 
-* [Intro](#intro)<br>
-* [Elements](#elements)<br>
+* [Intro](#intro) <br>
+* [Elements](#elements) <br>
 * [DeveloperEvangelistChores](#developerevangelistchores) <br>
-* [Core](#core)<br>
+* [Core](#core) <br>
+* [Notes](#notes) <br>
 
 ### Intro
 
@@ -41,3 +42,8 @@
     - Connect groups
     - Help people get jobs
     - Help find resources
+
+### Notes
+
+- Depending on the mission of your company and your specific DevRel team, it might make more sense to focus on broad developer education rather than training community members on your product specifically
+  - Focus on developer/technology education rather than product-centric training
