@@ -14,3 +14,9 @@
   - Dismissive responses
   - Unexplained rejection
   - Unwelcoming language or content
+- Don’t spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project
+  - No matter which stage you decide to open source your project, every project should include the following documentation:
+    - Open source license
+    - README
+    - Contributing guidelines
+    - Code of conduct
