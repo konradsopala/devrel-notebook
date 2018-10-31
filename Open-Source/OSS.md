@@ -3,6 +3,7 @@
 ## Table of contents
 
 * [Members](#members) <br>
+* [WelcomingCommunity](#welcomingcommunity) <br>
 * [Documentation](#documentation) <br>
 * [OSSProblems](#ossproblems) <br>
 * [Notes](#notes) <br>
@@ -14,6 +15,15 @@
   - **Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
   - **Contributors**: Everyone who has contributed something back to the project.
   - **Community Members**: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
+  
+### WelcomingCommunity
+
+- Make it easy for someone to use your project
+- Clearly explain how to contribute
+- When someone new lands on your project, thank them for their interest!
+- Be responsive
+- Be open-minded about the types of contributions you’ll accept
+- Treat your README as a constitution
 
 ### Documentation
 
