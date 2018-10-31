@@ -3,6 +3,7 @@
 ## Table of contents
 
 * [Members](#members) <br>
+* [Motivation](#motivation) <br>
 * [WelcomingCommunity](#welcomingcommunity) <br>
 * [Documentation](#documentation) <br>
 * [OSSProblems](#ossproblems) <br>
@@ -15,6 +16,10 @@
   - **Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
   - **Contributors**: Everyone who has contributed something back to the project.
   - **Community Members**: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
+  
+### Motivation
+
+- Extrinsic motivators are great at getting people first exposure, but not for creating long term OSS contributors.
   
 ### WelcomingCommunity
 
