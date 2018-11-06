@@ -21,7 +21,8 @@
   
 ### Motivation
 
-- Extrinsic motivators are great at getting people first exposure, but not for creating long term OSS contributors.
+- Extrinsic motivators are great at getting people first exposure, but not for creating long term OSS contributors
+- The best way you can incentivise long term contributions is through providing either valuable learning opportunities, or career opportunities
   
 ### WelcomingCommunity
 
