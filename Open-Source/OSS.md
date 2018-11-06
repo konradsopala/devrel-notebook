@@ -4,6 +4,7 @@
 
 * [Members](#members) <br>
 * [Motivation](#motivation) <br>
+* [Hacktoberfest](#hacktoberfest) <br>
 * [WelcomingCommunity](#welcomingcommunity) <br>
 * [OSSMotivtions](#ossmotivations) <br>
 * [OSSBlocks](#ossblocks) <br>
@@ -23,6 +24,10 @@
 
 - Extrinsic motivators are great at getting people first exposure, but not for creating long term OSS contributors
 - The best way you can incentivise long term contributions is through providing either valuable learning opportunities, or career opportunities
+
+### Hacktoberfest
+
+- Hacktoberfest is not good for long-term OS contribution but is good for raising awareness
   
 ### WelcomingCommunity
 
