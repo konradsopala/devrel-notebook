@@ -43,6 +43,7 @@
 
 - Hard to measure
 - Subjective
+- Developers are not only in US and Europe
 - Time intensive
 - Cost center
 - Always stay bi-directional: care about your developers but also your internal team
