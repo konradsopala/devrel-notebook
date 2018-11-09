@@ -3,6 +3,11 @@
 ## Table of contents
 
 * [Members](#members) <br>
+* [Motivation](#motivation) <br>
+* [Hacktoberfest](#hacktoberfest) <br>
+* [WelcomingCommunity](#welcomingcommunity) <br>
+* [OSSMotivtions](#ossmotivations) <br>
+* [OSSBlocks](#ossblocks) <br>
 * [Documentation](#documentation) <br>
 * [OSSProblems](#ossproblems) <br>
 * [Notes](#notes) <br>
@@ -14,6 +19,44 @@
   - **Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
   - **Contributors**: Everyone who has contributed something back to the project.
   - **Community Members**: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
+  
+### Motivation
+
+- Extrinsic motivators are great at getting people first exposure, but not for creating long term OSS contributors
+- The best way you can incentivise long term contributions is through providing either valuable learning opportunities, or career opportunities
+
+### Hacktoberfest
+
+- Hacktoberfest is not good for long-term OS contribution but is good for raising awareness
+  
+### WelcomingCommunity
+
+- Make it easy for someone to use your project
+- Clearly explain how to contribute
+- When someone new lands on your project, thank them for their interest!
+- Be responsive
+- Be open-minded about the types of contributions you’ll accept
+- Treat your README as a constitution
+
+### OSSMotivtions
+
+* Improving coding skills
+* Being a part of community
+* Learning new technologies
+* Advancing careers
+* Advancing software freedom
+* Developing new products
+* Improving technologies required for job
+
+### OSSBlocks
+
+* It seems difficult to get started / I don't know where to start
+* I feel like I don't have the right skills to contribute
+* My company doesn't give me time to contribute
+* I am too intimidated to contribute
+* Lack of resources
+* I already contributed to a significant amount of open source
+* Lack of interest
 
 ### Documentation
 

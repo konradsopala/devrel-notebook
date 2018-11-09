@@ -1,6 +1,6 @@
 # Developer Experience
 
-Developers know how stuff works.
+Developers know how stuff works.Developer experience has evolved so much throught the years that now it takes half a day to setup dev environment while some time ago you opened notepad and you started working.
 
 ## Table of Contents
 
@@ -59,6 +59,7 @@ Principles of a great developer experience
   
 - Most of the users uninstall the app if they notice freeze, crash or an error
 - Great experience lead to great engagement
+- Developer experience has become more complex since developers are using tools to do multiple things rather than a single thing
 - Help users get started quickly
 - **Know how it feels to walk in the shoes of your audience**
 - **The number one priority for developers is support**
