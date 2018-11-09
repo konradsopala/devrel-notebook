@@ -18,3 +18,4 @@ Gold wisdom about everything regarding Developer Relations
 - Community Canvas
 - Open-Source
 - DevRel Teams
+- Presentations
