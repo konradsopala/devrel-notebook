@@ -43,6 +43,8 @@ Developers want to:
 
 ### CommunityPersonas
 
+**One of the things that is invaluable in the community / developer relations space is to create a persona around who the audience is**
+
 - **Consumers** in a community come with an expectation to be served: they attend events, at events they listen to speakers, in the online community they read or sometimes react to things, but usually only when it seems useful to them. If they don’t like something in the community, they complain or disengage. They feel that leading the community is someone else’s responsibility and they are mostly in the community for opportunistic reasons.
 
 - **Co-creators** on the other hand actively shape events they go to or they help organize them. In discussions, both online and in person, they actively contribute new ideas and initiatives without expecting anything in return. If they don’t like something, they bring it up for discussion and provide new ideas and suggestions how to address it. If a conflict arises, they are willing to work through it. They invest their energy, time and money into the organization, because they feel that this community is partially also their own organization and therefore their responsibility to push it forward.
