@@ -58,6 +58,7 @@ Principles of a great developer experience
 ### Notes
   
 - Most of the users uninstall the app if they notice freeze, crash or an error
+- Developers tend to stick to using IDEs rather than lightweight desktop editors
 - Developers spend almost 50% of their time on legacy code
 - Great experience lead to great engagement
 - Developer experience has become more complex since developers are using tools to do multiple things rather than a single thing
