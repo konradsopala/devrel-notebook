@@ -10,8 +10,8 @@ Gold wisdom about everything regarding Developer Relations
 - Developer Evangelism
 - Developer Experience
 - Developer Relations
-- Devrel Life
-- Devrel Space
+- DevRel Life
+- DevRel Space
 - Hackathons
 - Reports
 - Docs
@@ -19,3 +19,4 @@ Gold wisdom about everything regarding Developer Relations
 - Open-Source
 - DevRel Teams
 - Presentations
+- DevRel Thoughts
