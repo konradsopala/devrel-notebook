@@ -10,3 +10,4 @@
 - Remote workers shouldn’t feel guilty abut taking the time away from their desks
 - Such conferences as GitHub Universe, Google IO are purely for networking
 - If you're travelling for a conference always go for your health (even if they have talks that are interesting for you, choose the flight that allows you to get back home earlier and rest)
+- Developer Advocacy - in some companies you need to travel 2/3 of the year
