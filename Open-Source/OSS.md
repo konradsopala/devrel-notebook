@@ -10,6 +10,7 @@
 * [OSSBlocks](#ossblocks) <br>
 * [Documentation](#documentation) <br>
 * [OSSProblems](#ossproblems) <br>
+* [Strategy](#strategy) <br>
 * [Notes](#notes) <br>
 
 ### Members
@@ -79,6 +80,16 @@
   - Dismissive responses
   - Unexplained rejection
   - Unwelcoming language or content
+  
+### Strategy
+
+Creating and documenting an open source strategy is an essential first step to realizing ROI with open source. Crafting a strategy document will help your team understand the business objectives behind your open-source program. 
+
+* Start with the end goal first and then explain how to get there
+* Explain your company's approach to open-source and the purpose behind the document.
+* Specify how you want developers to consume open source code
+* Specify how you want developers to contribute to open source projects and identify projects that are critical to your business strategy
+
 
 ### Notes
 
