@@ -2,6 +2,7 @@
 
 ## Table of contents
 
+* [HealthMetrics](#healthmetrics) <br>
 * [Members](#members) <br>
 * [Motivation](#motivation) <br>
 * [Hacktoberfest](#hacktoberfest) <br>
@@ -11,7 +12,35 @@
 * [Documentation](#documentation) <br>
 * [OSSProblems](#ossproblems) <br>
 * [Strategy](#strategy) <br>
+* [ProjectTransition](#projecttransition) <br>
 * [Notes](#notes) <br>
+
+### HealthMetrics
+
+* **Contributor-Breadth**:  the ratio of non-core committers to core committers. This metric indicates how open a community is to contributions from outside
+* **Contributor-Demographics**:  gender, age, location, education, and skills over time
+* **Contributors**: number of contributors
+* **Issue-Response-Rate**: time between a new issue is opened and a maintainer responds
+* **Followers**: number of followers
+* **Forks**: number of forks
+* **Bus-Factor**: the minimum number of developers performing 50% of commits
+* **Closed-issues**: number of close issues
+* **Code-Commits**: number of code commits
+* **Transparency**: number of comments per issue
+* **Watchers**: number of watchers
+* **Issue-Resolution-Efficiency**: number of closed issues / number of abandoned issue
+* **Issues-Submitted-Closed**: issues submitted vs issues closed
+* **Code-Merge-Duration**: what's the duration of time between code merge request and code commit
+* **CommunityActivity**: frequency of contributions
+* **IssueComments**: number of comments per issue
+* **NewContributors**: number of new contributors over time
+* **OpenIssueAge**: age of an open issue
+* **OpenIssues**: number of open issues
+* **PRsComments**: number of comments per pull request
+* **PRsMadeClosed**: pull request made vs pull requests closed
+* **PRsOpen**: number of opened pull requests
+* **PRsOverTime**: how many pull requests have been submitted over time
+* **NewContributorsMaintainers**: ratio of new contributors to maintainers
 
 ### Members
 
@@ -90,9 +119,20 @@ Creating and documenting an open source strategy is an essential first step to r
 * Specify how you want developers to consume open source code
 * Specify how you want developers to contribute to open source projects and identify projects that are critical to your business strategy
 
+### ProjectTransition
+
+* Ending open-source projects:
+  * Whatever you do to end or transfer an open source project, perhaps the most important move you can make is to be candid with users at every step. Being open about your intentions helps establish trust for future work with all potential developer communities.
+  * It’s important to always remember that just because your company doesn’t care about the code anymore it  doesn’t mean that the existing community doesn’t care.
+  * If your enterprise transfers the project to another group, the users should be kept up to date on what is being done to protect their interests as well.
+  * Be sure to openly advise developers and community members about the status of the project with its new operators and give them clear details about how the project is now being maintained if they care to continue to use it.
+  * Don’t forget to update your project website, social media channels, and other connected community assets so participants know where to find the moved project and can continue to make their contributions and use the code.
+  * Remember to communicate all this information to downstream organizations and users as well. This includes companies, non-profits, and others that are using your code, and who may not be aware of the demise or transfer of the project because they’re not directly involved in the development cycle. You should make efforts to advise them of what is happening through your websites, social media channels, and other outlets, especially if the project is well-known and has had a substantial following.
 
 ### Notes
 
 - Documentation is highly valued, frequently overlooked, and a means for establishing inclusive and accessible communities.
 - Open source is the default when choosing software.
 - Don’t spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project
+- Hiring managers are moving away from hiring outside consultants, increasingly opting to train existing employees on new open source technologies and help them gain certifications.
+- Many organizations are getting involved in open source with the express purpose of attracting developers.
