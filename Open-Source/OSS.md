@@ -4,6 +4,7 @@
 
 ## Table of contents
 
+* [GoldThoughts](#goldthoughts) <br>
 * [HealthMetrics](#healthmetrics) <br>
 * [Members](#members) <br>
 * [Motivation](#motivation) <br>
@@ -16,6 +17,11 @@
 * [Strategy](#strategy) <br>
 * [ProjectTransition](#projecttransition) <br>
 * [Notes](#notes) <br>
+
+### GoldThoughts
+* Remember that the number itself isn’t the goal — it’s the process of tracking them over time and finding patterns in the data that can inform project and process improvements.
+* “If you have more than 100 code repositories or 100 people that you’re trying to manage, you really can’t have someone doing it manually with spreadsheets anymore. Obviously, people still do it that way. But it starts to become ad hoc and laborious. That’s where tools come into play. They allow you to scale.” 
+* “At the end of the day, you need tools to automate your life, otherwise you’re going to waste a lot of time doing things manually.” 
 
 ### HealthMetrics
 
@@ -138,3 +144,4 @@ Creating and documenting an open source strategy is an essential first step to r
 - Don’t spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project
 - Hiring managers are moving away from hiring outside consultants, increasingly opting to train existing employees on new open source technologies and help them gain certifications.
 - Many organizations are getting involved in open source with the express purpose of attracting developers.
+- OSS question: how easy is it for outsiders to contribute to your organization projects
