@@ -20,3 +20,4 @@ Gold wisdom about everything regarding Developer Relations
 - DevRel Teams
 - Presentations
 - DevRel Thoughts
+- Diversity and Inclusion
