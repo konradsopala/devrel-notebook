@@ -1,5 +1,7 @@
 # OSS
 
+![](/Open-Source/Assets/OSSProjectsMatter.png)
+
 ## Table of contents
 
 * [HealthMetrics](#healthmetrics) <br>
