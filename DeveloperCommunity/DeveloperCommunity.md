@@ -6,6 +6,7 @@ In terms of developer community the core question is: **are they customers or pa
 
 * [Intro](#intro)<br>
 * [CommunityCanvas](#communitycanvas)<br>
+* [CoreMetrics](#coremetrics) <br>
 * [DeveloperWants](#developerwants)<br>
 * [CommunityPersonas](#communitypersonas)<br>
 * [CommunityLifecycle](#communitylifecycle)<br>
@@ -32,6 +33,19 @@ In terms of developer community the core question is: **are they customers or pa
 ### CommunityCanvas
 
 ![](/DeveloperCommunity/Assets/CommunityCanvas.png)
+
+### CoreMetrics
+
+* Total numbers of new topics
+* Number of participating numbers
+* Number of members who visit each month
+* Number of new users per month
+* Number of posts per month
+* Number of topics marked as solved
+* % of active vs passive users
+* Average number of posts per member
+* Number of members who upgraded to paying accounts
+* Number who joined 6 months ago and are still active
 
 ### DeveloperWants
 
