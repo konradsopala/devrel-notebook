@@ -2,6 +2,8 @@
 
 In terms of developer community the core question is: **are they customers or partners?**
 
+**Most communities are unnecessary to members**
+
 ## Table of contents
 
 * [Intro](#intro)<br>
