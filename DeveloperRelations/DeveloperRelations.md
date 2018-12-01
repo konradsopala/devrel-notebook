@@ -7,6 +7,7 @@
 ## Table of Contents
 
 * [DeveloperRoadmap](#developerroadmap)<br>
+* [DevRelCycle](#devrelcycle) <br>
 * [DevrelPhases](#devrelphases)<br>
 * [CareModel](#caremodel)<br>
 * [DeveloperMarketing](#developermarketing)<br>
@@ -16,6 +17,10 @@
 ### DeveloperRoadmap
 
 **Public Roadmaps** - by sharing in advance what you’re planning with your users, you can help them make much smarter long-term decisions.
+
+### DevRelCycle
+
+![](/DeveloperRelations/IntroAssets/DevRelCycle.png)
 
 ### DevrelPhases
 
