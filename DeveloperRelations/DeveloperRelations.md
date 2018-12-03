@@ -1,6 +1,6 @@
 # Developer Relations (building trust at scale)
 
-**There is no off-the record**
+**There is no off-the record. It is about genuinely advocating for developer needs in a form of your product**
 
 ![](/DeveloperRelations/IntroAssets/DeveloperRelations.png)
 
