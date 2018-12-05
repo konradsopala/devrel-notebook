@@ -21,6 +21,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [SuccessMetrics](#successmetrics) <br>
 * [ReleasingBlogposts](#releasingblogposts)<br>
 * [NewslettersEmails](#newslettersemails)<br>
+* [CommunityOrientedInitiatives](#communityorientedinitiatives) <br>
 * [Hackathons](#hackathons) <br>
 * [Meetups](#meetups)<br>
 * [UserGroups](#usergroups)<br>
@@ -135,6 +136,12 @@ Aware -> Engaged -> Achieved
 ### NewslettersEmails
 
 - Being time and date consistent when sending emails/newsletter to your users is crucial
+
+### CommunityOrientedInitiatives
+
+* Polls and surveys
+* Community contests and challenges
+* Community trainings
 
 ### Hackathons
 
