@@ -1,5 +1,7 @@
 # Developer Advocacy 
 
+If they like your product, they'll do the advocacy
+
 ## Table of Contents
 
 * [Notes](#notes)<br>
