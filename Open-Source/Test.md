@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/License-MIT-green.svg"/>
 </p>
 
-[<img align="right" width="150" src="/Assets/joinAuth0CommunityBadge.png">](https://community.auth0.com/)
+[<img align="right" src="/Assets/joinAuth0CommunityBadge.png">](https://community.auth0.com/)
 
 
 All repos in this organisation are open source projects. We welcome contributions of all forms! Came across a bug in any of our community repos? Have an idea for some kind of improvement? Below you can find some guidelines on how to contribute, so as to make it work for the whole community in the long run. These repos are community maintained, so we're all in this together! 🤜🏼🤛🏻
