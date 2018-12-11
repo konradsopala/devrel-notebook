@@ -3,6 +3,7 @@
 In terms of developer community the core question is: **are they customers or partners?**
 
 **Most communities are unnecessary to members**
+**Discussion build relationships and relationships build communities**
 
 ## Table of contents
 
@@ -21,6 +22,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [SuccessMetrics](#successmetrics) <br>
 * [ReleasingBlogposts](#releasingblogposts)<br>
 * [NewslettersEmails](#newslettersemails)<br>
+* [CommunityOrientedInitiatives](#communityorientedinitiatives) <br>
 * [Hackathons](#hackathons) <br>
 * [Meetups](#meetups)<br>
 * [UserGroups](#usergroups)<br>
@@ -136,6 +138,12 @@ Aware -> Engaged -> Achieved
 
 - Being time and date consistent when sending emails/newsletter to your users is crucial
 
+### CommunityOrientedInitiatives
+
+* Polls and surveys
+* Community contests and challenges
+* Community trainings
+
 ### Hackathons
 
 - Engagement with hackers after the event is super crucial in terms of your future events, especially when there are not many hackathons on the horizon
@@ -184,3 +192,5 @@ The best advice to seed your community before launching it is to set-up a longer
 - Make your community indispensable to your organization
 - It's not what you say in the meeting, it's what you bring to the meeting
 - Make the community indispensable to your members
+- Take a look at customer requests, and analyse them carefully. You want to distinguish between what customers ask for, and what they actually need
+- Communicate with users to let them know that you're working on their issues. Even if it's not strictly speaking a docs issue, your communication skills can help product management and support reassure customers who are waiting for new features

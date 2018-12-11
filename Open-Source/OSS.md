@@ -16,6 +16,7 @@
 * [OSSProblems](#ossproblems) <br>
 * [Strategy](#strategy) <br>
 * [ProjectTransition](#projecttransition) <br>
+* [ProjectChecklist](#projectchecklist) <br>
 * [Notes](#notes) <br>
 
 ### GoldThoughts
@@ -136,6 +137,71 @@ Creating and documenting an open source strategy is an essential first step to r
   * Be sure to openly advise developers and community members about the status of the project with its new operators and give them clear details about how the project is now being maintained if they care to continue to use it.
   * Don’t forget to update your project website, social media channels, and other connected community assets so participants know where to find the moved project and can continue to make their contributions and use the code.
   * Remember to communicate all this information to downstream organizations and users as well. This includes companies, non-profits, and others that are using your code, and who may not be aware of the demise or transfer of the project because they’re not directly involved in the development cycle. You should make efforts to advise them of what is happening through your websites, social media channels, and other outlets, especially if the project is well-known and has had a substantial following.
+  
+### ProjectChecklist
+
+Considerations
+
+* Evaluate possibility of joining an existing open source project
+* Evaluate the company’s ability to launch and maintain the project using the open source model
+* Evaluate the likelihood that other companies may join the project from the start
+* Evaluate success factors and set appropriate metrics for the open source project
+
+**Business strategy & plan**
+
+* Determine and set goals for your project
+* ather reasons for doing it from stakeholder
+* Select code to be considered for the project
+* Decide whether the project will include all code for an application or just parts of it
+* Create a business case for the selected proposal
+* Determine if there is executive buy-in for the move
+* Plan resource commitments for developers and funding
+* Set budgets for costs, including development time, infrastructure and related expenses
+* Gather executives and tech staff for project discussions and decision-making
+* Debate and finalize project scope and code selection
+
+**Legal Review**
+
+* Consider the impact of open sourcing on your company’s intellectual property
+* Ensure full compliance with open source licenses
+* Select an open source license for the source code to be released, document all licensing requirements very clearly in your project
+* Decide if you need a contributor agreement
+* Consider the possible non-software outputs from the community and the appropriate licenses, such as documentation and specifications
+* Decide on any trademark related considerations
+* Decide whether there are additional factors to build into your plans for an ecosystem, such as conformance testing
+
+**Technical Review**
+
+* Remove critical dependencies on non-public components
+* Provide documentation and use case examples
+* Remove internal comments, references to other internal code, etc.
+* Ensure coding style is consistent
+* Update copyright notices in source code files
+* Add license notice in source code file
+* Add license text as a file in the root directory
+
+**Governance and Processes**
+
+* Define project governance steps and structure
+* Set up a code repository, bug reporting, and code testing infrastructure
+* Create supporting Slack channels, forums, and Wikis
+* Create open lines of communication with contributors for project success
+
+**Branding and Marketing**
+
+* Set marketing strategy to promote an active contributor community
+* Design project logo, color scheme, website, collateral, etc.
+* Formalize branding guidelines
+* Register social media accounts for the project (Twitter, Facebook, LinkedIn, etc.)
+* Register domain names for the project
+
+**Launch and Maintain**
+
+* Open project and begin development work and contributions process
+* Designate a community manager or community advocate
+* Ensure any changes to direction or governance are clearly communicated
+* Follow best practices of other similar communities
+* Encourage and provide opportunities for face-to-face community building
 
 ### Notes
 

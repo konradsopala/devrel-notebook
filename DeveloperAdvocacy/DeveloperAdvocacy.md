@@ -1,8 +1,21 @@
 # Developer Advocacy 
 
+If they like your product, they'll do the advocacy
+
 ## Table of Contents
 
+* [Mootivators](#motivators) <br>
 * [Notes](#notes)<br>
+
+### Motivators
+
+We don't want super users to do advocacy for free stuff
+
+* **Identity** – the mechanisms for how we are able to display, share and take pride in the accomplishment of becoming a super user
+* **Privileges** – the set of technical capabilities, access to, and engagement with the company, and opportunities to have their leadership sanctioned
+* **Tangibles** – the “goods,” whether physical items, account credits, or invitations to special events
+
+There are no lifetime memberships. Each member has to be reconsidered on a set time frame, no matter how good their contributions may be. This allows you to roll in new blood and remove inactive members. It also allows members who have stopped participating due to life circumstances a chance to step back and save face.
 
 ### Notes
 
