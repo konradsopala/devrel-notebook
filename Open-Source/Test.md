@@ -1,5 +1,5 @@
-[![Open Source Love](https://img.shields.io/badge/contribution%20made-easier-green.svg)]
-[<img align="right" width="150" src="/Assets/joinAuth0CommunityBadge.png">](https://community.auth0.com/)
+[![](https://img.shields.io/badge/contribution%20made-easier-green.svg)]()
+[<img align="right"  src="/Assets/joinAuth0CommunityBadge.png">](https://community.auth0.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # How to contribute to auth0-community repos
