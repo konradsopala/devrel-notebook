@@ -1,5 +1,4 @@
 [![](https://img.shields.io/badge/contribution%20made-easier-green.svg)]()
-[<img align="right" src="/Assets/joinAuth0CommunityBadge.png">](https://community.auth0.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ![](/Assets/joinAuth0CommunityBadge.png)
