@@ -2,6 +2,8 @@
 [<img align="right" src="/Assets/joinAuth0CommunityBadge.png">](https://community.auth0.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+![](/Assets/joinAuth0CommunityBadge.png)
+
 # How to contribute to auth0-community repos
 
 All repos in this organisation are open source projects. We welcome contributions of all forms! Came across a bug in any of our community repos? Have an idea for some kind of improvement? Below you can find some guidelines on how to contribute, so as to make it work for the whole community in the long run. These repos are community maintained, so we're all in this together! 🤜🏼🤛🏻
