@@ -19,7 +19,7 @@ Our core philosophy is based on the principles of collaboration, experimentation
 
 **Our Values**
 
-![](/OpenSource/Assets/Auth0Values.png)
+![](/Open-Source/Assets/Auth0Values.png)
 
 You can read about [our company values in more detail here.](https://auth0.com/careers/culture)
 
