@@ -9,9 +9,8 @@
 <br/>
 <p align="center">
 <img width="116" height="40" src="/Open-Source/Assets/join_auth0_community_badge.png"/>
-<img height="40" src="https://img.shields.io/badge/community-driven-brightgreen.svg"/>
-<img height="40" src="https://img.shields.io/badge/contribution%20made-easier-green.svg"/>
-<img height="40" src="https://img.shields.io/badge/License-MIT-green.svg"/>
+<img width="116" height="40" src="https://img.shields.io/badge/community-driven-brightgreen.svg"/>
+<img width="116" height="40" src="https://img.shields.io/badge/OSS-%3C3-brightgreen.svg"/>
 </p>
 
 # Getting started
