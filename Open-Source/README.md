@@ -13,6 +13,12 @@
 <img src="https://img.shields.io/badge/contribution%20made-easier-green.svg"/>
 <img src="https://img.shields.io/badge/License-MIT-green.svg"/>
 </p>
+<div align="center">
+<br>
+<form action="https://community.auth0.com/">
+    <input type="image" src="http://example.com/path/to/image.png"/>
+</form>
+/>
 
 # Getting started
 
