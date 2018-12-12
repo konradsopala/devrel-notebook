@@ -17,6 +17,7 @@
 <a href="https://community.auth0.com/">
 <img src="/Open-Source/Assets/join_auth0_community_badge.png"/>
 </a>
+</div>
 
 # Getting started
 
