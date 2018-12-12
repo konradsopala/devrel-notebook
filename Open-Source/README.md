@@ -16,7 +16,7 @@
 <div align="center">
 <br>
 <form action="https://community.auth0.com/">
-    <input type="image" src="http://example.com/path/to/image.png"/>
+    <input type="image" src="/Open-Source/Assets/Auth0_Community_Banner.png"/>
 </form>
 />
 
