@@ -8,14 +8,11 @@
 </div>
 <br/>
 <p align="center">
+<img width="116" height="20" src="/Open-Source/Assets/join_auth0_community_badge.png"/>
 <img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/>
 <img src="https://img.shields.io/badge/contribution%20made-easier-green.svg"/>
 <img src="https://img.shields.io/badge/License-MIT-green.svg"/>
 </p>
-<div align="center">
-<br>
-[<img src="/Open-Source/Assets/join_auth0_community_badge.png">](https://community.auth0.com/)
-/>
 
 # Getting started
 
