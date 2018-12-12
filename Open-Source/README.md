@@ -8,17 +8,11 @@
 </div>
 <br/>
 <p align="center">
-<img width="116" height="20" src="/Open-Source/Assets/join_auth0_community_badge.png"/>
-<img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/>
-<img src="https://img.shields.io/badge/contribution%20made-easier-green.svg"/>
-<img src="https://img.shields.io/badge/License-MIT-green.svg"/>
+<img width="116" height="40" src="/Open-Source/Assets/join_auth0_community_badge.png"/>
+<img height="40" src="https://img.shields.io/badge/community-driven-brightgreen.svg"/>
+<img height="40" src="https://img.shields.io/badge/contribution%20made-easier-green.svg"/>
+<img height="40" src="https://img.shields.io/badge/License-MIT-green.svg"/>
 </p>
-<div align="center">
-<br>
-<form action="https://community.auth0.com/">
-    <input type="image" src="/Open-Source/Assets/Auth0_Community_Banner.png"/>
-</form>
-/>
 
 # Getting started
 
