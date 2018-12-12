@@ -12,8 +12,10 @@
 <img src="https://img.shields.io/badge/contribution%20made-easier-green.svg"/>
 <img src="https://img.shields.io/badge/License-MIT-green.svg"/>
 </p>
-
-[<img align="center" src="/Open-Source/Assets/join_auth0_community_badge.png">](https://community.auth0.com/)
+<div align="center">
+<br>
+[<img src="/Open-Source/Assets/join_auth0_community_badge.png">](https://community.auth0.com/)
+/>
 
 # Getting started
 
