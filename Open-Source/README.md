@@ -8,10 +8,16 @@
 </div>
 <br/>
 <p align="center">
-<img width="116" height="30" src="/Open-Source/Assets/join_auth0_community_badge.png"/>
-<img width="116" height="30" src="https://img.shields.io/badge/community-driven-brightgreen.svg"/>
-<img width="116" height="30" src="https://img.shields.io/badge/OSS-%3C3-brightgreen.svg"/>
+<img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/>
+<img src="https://img.shields.io/badge/contribution%20made-easier-green.svg"/>
+<img src="https://img.shields.io/badge/License-MIT-green.svg"/>
 </p>
+<div align="center">
+<br>
+<a href="https://community.auth0.com/">
+<img src="/Open-Source/Assets/join_auth0_community_badge.png"/>
+</a>
+/>
 
 # Getting started
 
