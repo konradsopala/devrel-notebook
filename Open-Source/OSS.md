@@ -67,6 +67,16 @@
 ### Hacktoberfest
 
 - Hacktoberfest is not good for long-term OS contribution but is good for raising awareness
+
+**Hacktoberfest Lessons Learnt**
+
+* Hacktoberfest labels on GitHub for better tracking
+* You need to communicate Hacktoberfest internally to get more reviewers as well as externally to communicate progress
+  * Slack, Email - internally
+  * Twitter, Developer Portal - externally
+* **Acceptance criteria are must**
+* Hacktoberfest approved GitHub label
+* Repo with Community Repos Hacktoberfest Leaders
   
 ### WelcomingCommunity
 
