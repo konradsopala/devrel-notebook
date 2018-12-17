@@ -75,6 +75,13 @@ Developers want to:
 - Mitosis
 - Death
 
+**OR**
+
+* Awareness
+* Education
+* Retention
+* Adoption
+
 ### CommunityMemberJourney
 
 **The journey of community member maturity**
