@@ -70,13 +70,37 @@
 
 **Hacktoberfest Lessons Learnt**
 
-* Hacktoberfest labels on GitHub for better tracking
-* You need to communicate Hacktoberfest internally to get more reviewers as well as externally to communicate progress
-  * Slack, Email - internally
-  * Twitter, Developer Portal - externally
-* **Acceptance criteria are must**
-* Hacktoberfest approved GitHub label
-* Repo with Community Repos Hacktoberfest Leaders
+
+* **Initative coordination**:
+  * One person solely responsible for: 
+    * Regular communication internally( E-Mail, Confluence, Slack)
+    * Regular communication externally (Twitter, Mail, Developer Forum)
+    * Designing contributor form
+    * Extracting data from the form
+    * Creating a final report
+    * Writing summary blog post internally and externally
+    * Co-ordinating PRs status matrix
+    * Sending SWAG
+
+
+* **GitHub Labelling**
+  * "Hacktoberfest PR" labels added to PRs contributed in Hacktoberfest - better navigation and tracking both internally and externally
+  * "Hacktoberfest" approved GitHub label
+
+* **PRs Reviewing**
+  * X amount of planned time a week for certain team to review their repos Hacktoberfest PRs
+
+
+* **Nice to have**
+  * Repo with Community Repos Hacktoberfest Leaders
+  * Acceptance criteria
+  * Are must: eg. 1 small and 4 medium PRs
+
+* **Mailing**
+  * Some easy to use and automated tool like MailChimp (better tracking and easier outreach) instead of manual emails
+
+* **Any Excel related data storing / analysis**
+  * Excel formulas instead of manual values (data then is simply reliable and valuable and we won't mislead ourselves and contributors)
   
 ### WelcomingCommunity
 
