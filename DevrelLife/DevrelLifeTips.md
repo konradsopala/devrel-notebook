@@ -13,4 +13,5 @@
 - Developer Advocacy - in some companies you need to travel 2/3 of the year
 - Speaker dinners are very important for networking but also extending your social media outreach
 - You need an event strategy and plan to execute (so as not to waste your attendance at the event)
+- Using too many tools in remote job environment is not a good idea
 - **Fly less, write more**
