@@ -23,6 +23,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [ReleasingBlogposts](#releasingblogposts)<br>
 * [NewslettersEmails](#newslettersemails)<br>
 * [CommunityOrientedInitiatives](#communityorientedinitiatives) <br>
+* [CommunityForum](#communityforum) <br>
 * [Hackathons](#hackathons) <br>
 * [Meetups](#meetups)<br>
 * [UserGroups](#usergroups)<br>
@@ -150,6 +151,11 @@ Aware -> Engaged -> Achieved
 * Polls and surveys
 * Community contests and challenges
 * Community trainings
+
+### CommunityForum
+
+* Community Forum categories are super crucial for
+  * People navigating to find potential solutions (not posting new ones)
 
 ### Hackathons
 
