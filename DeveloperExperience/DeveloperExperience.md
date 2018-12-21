@@ -24,19 +24,27 @@ Developers know how stuff works.Developer experience has evolved so much through
 ### DeveloperJourney
   
 A developer journey is the route between a developer with no knowledge of a technology and the same developer that feels confident to use it in production and actively share the expertise acquired
-  
-### Tooling
-  
-- Developers right now spend too much time on the tooling and workflows compared to the time they spend on software development
-- Shortcuts in IDEs are key in successful developer tooling
-- IDEs utilizing code reviewing is the future (getting tid of external tools)
-  
+
 **Developer journey stages**
   
 - Exploration (Connect)
 - Getting started (Engage)
 - Guidance (Adopt)
 - Reference (Advocate)
+
+**or**
+
+* Do I want to use it?
+* How do I sign up?
+* How do I get started?
+* How do I use it?
+* How do I get help?
+  
+### Tooling
+  
+- Developers right now spend too much time on the tooling and workflows compared to the time they spend on software development
+- Shortcuts in IDEs are key in successful developer tooling
+- IDEs utilizing code reviewing is the future (getting tid of external tools)
   
 ### Principles
   
