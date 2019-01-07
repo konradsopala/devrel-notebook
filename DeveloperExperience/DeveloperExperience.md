@@ -2,6 +2,8 @@
 
 Developers know how stuff works.Developer experience has evolved so much throught the years that now it takes half a day to setup dev environment while some time ago you opened notepad and you started working.
 
+**Developer Experience is focusing on what's creative and abstracting out the redundant**
+
 ## Table of Contents
 
 * [CoreElements](#corelements)<br>
