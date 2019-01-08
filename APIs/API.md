@@ -1,8 +1,5 @@
 # API
 
-<img src="https://img.shields.io/badge/Swift-4.2-green.svg" alt="swift version"/> <img src="https://img.shields.io/badge/Swift-4.2-green.svg" alt="swift version"/>
-
-
 ## Table of Contents
 
 * [Principles](#principles)<br>
