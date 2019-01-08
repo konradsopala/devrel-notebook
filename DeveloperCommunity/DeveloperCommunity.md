@@ -12,6 +12,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [CoreMetrics](#coremetrics) <br>
 * [DeveloperWants](#developerwants)<br>
 * [CommunityPersonas](#communitypersonas)<br>
+* [CommunityMigration](#communitymigration)<br>
 * [CommunityLifecycle](#communitylifecycle)<br>
 * [CommunityMemberJourney](#communitymemberjourney)<br>
 * [CommunityGettingStarted](#communitygettingstarted)<br>
@@ -67,6 +68,14 @@ Developers want to:
 - **Consumers** in a community come with an expectation to be served: they attend events, at events they listen to speakers, in the online community they read or sometimes react to things, but usually only when it seems useful to them. If they don’t like something in the community, they complain or disengage. They feel that leading the community is someone else’s responsibility and they are mostly in the community for opportunistic reasons.
 
 - **Co-creators** on the other hand actively shape events they go to or they help organize them. In discussions, both online and in person, they actively contribute new ideas and initiatives without expecting anything in return. If they don’t like something, they bring it up for discussion and provide new ideas and suggestions how to address it. If a conflict arises, they are willing to work through it. They invest their energy, time and money into the organization, because they feel that this community is partially also their own organization and therefore their responsibility to push it forward.
+
+### CommunityMigration
+
+When migrating a community to a new platform:
+
+* **Phase 1** - get your team and top 1% active community members to populate with content
+* **Phase 2** - invite all active members to participate in "beta" of new community
+* **Phase 3** - invite everyone else
 
 ### CommunityLifecycle
 
