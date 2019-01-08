@@ -143,7 +143,13 @@ Aware -> Engaged -> Achieved
 
 - What % of questions got answered?
 - Reduction in number of reported bugs in software
-- How many people are completing the trial and stay for more
+- How many people are completing the trial and stay for more?
+
+- Is traffic to your community going up or down?
+- What percentage of visitors register?
+- What percentage of registered members participate?
+- What percentage of those that participate are still active in 3 months time?
+- What is the average number of contributions per month your top 1%, 9%, and 90% of members make?
 
 ### ReleasingBlogposts
 
