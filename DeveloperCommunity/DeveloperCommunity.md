@@ -4,6 +4,7 @@ In terms of developer community the core question is: **are they customers or pa
 
 **Most communities are unnecessary to members**
 **Discussion build relationships and relationships build communities**
+* **Community management is about nurturing conversations**
 
 ## Table of contents
 
