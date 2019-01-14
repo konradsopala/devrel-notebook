@@ -75,6 +75,7 @@ Principles of a great developer experience
 - Help users get started quickly
 - **Know how it feels to walk in the shoes of your audience**
 - **The number one priority for developers is support**
+- Consistency matters the most when it comes to developer content
 - Basically everyone, but developers especially, hates the feeling that they are being sold something.
 - C-level people at companies now worry about access to developers more than they worry about access to capital
 - It's a huge priority for upper management to increase the productivity of its developers
