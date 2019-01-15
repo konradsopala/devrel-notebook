@@ -203,6 +203,7 @@ The best advice to seed your community before launching it is to set-up a longer
 - Communicating with your customers over the course of their lifecycle to help them get to the outcome that they want
 - Be as personal as possible, try not to communicate toward everyone
 - Know your audience
+- Changes in community behaviour takes time (months, years)
 - Understand community members at personal level
 - As a Community Manager your job is to build up the community, not yourself. You succeed if and only if the community succeeds
 - Guiding a community is stressful work. You have to hold yourself to the highest of standards while everyone else gets to be human
