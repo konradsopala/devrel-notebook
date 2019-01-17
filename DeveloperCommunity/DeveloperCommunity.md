@@ -224,3 +224,4 @@ The best advice to seed your community before launching it is to set-up a longer
 - Make the community indispensable to your members
 - Take a look at customer requests, and analyse them carefully. You want to distinguish between what customers ask for, and what they actually need
 - Communicate with users to let them know that you're working on their issues. Even if it's not strictly speaking a docs issue, your communication skills can help product management and support reassure customers who are waiting for new features
+- You shouldn’t forget your existing members. You need to ensure that they are still experiencing the value they were promised
