@@ -242,6 +242,7 @@ Considerations
 - Documentation is highly valued, frequently overlooked, and a means for establishing inclusive and accessible communities.
 - Open source is the default when choosing software.
 - Don’t spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project
+- When something is cheaper, more people buy it. That’s why open-source companies have such massive and rapid adoption when they achieve product-market fit.
 - Hiring managers are moving away from hiring outside consultants, increasingly opting to train existing employees on new open source technologies and help them gain certifications.
 - Many organizations are getting involved in open source with the express purpose of attracting developers.
 - OSS question: how easy is it for outsiders to contribute to your organization projects
