@@ -63,3 +63,4 @@
 - Although charisma can be faked, DevRel also requires genuine enthusiasm for your platform or product.
 - It takes time to get developers to love you. It requires trust building, living by their values, thinking and speaking like them. Do it for a long enough time so that they understand you are one of them. 
 - If you're developing any kind of developer products you need to spend money on DevRel
+- If you handle developer relations social media, **write as you not as we**
