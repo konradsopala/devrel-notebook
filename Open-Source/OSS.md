@@ -67,6 +67,40 @@
 ### Hacktoberfest
 
 - Hacktoberfest is not good for long-term OS contribution but is good for raising awareness
+
+**Hacktoberfest Lessons Learnt**
+
+
+* **Initative coordination**:
+  * One person solely responsible for: 
+    * Regular communication internally( E-Mail, Confluence, Slack)
+    * Regular communication externally (Twitter, Mail, Developer Forum)
+    * Designing contributor form
+    * Extracting data from the form
+    * Creating a final report
+    * Writing summary blog post internally and externally
+    * Co-ordinating PRs status matrix
+    * Sending SWAG
+
+
+* **GitHub Labelling**
+  * "Hacktoberfest PR" labels added to PRs contributed in Hacktoberfest - better navigation and tracking both internally and externally
+  * "Hacktoberfest" approved GitHub label
+
+* **PRs Reviewing**
+  * X amount of planned time a week for certain team to review their repos Hacktoberfest PRs
+
+
+* **Nice to have**
+  * Repo with Community Repos Hacktoberfest Leaders
+  * Acceptance criteria
+  * Are must: eg. 1 small and 4 medium PRs
+
+* **Mailing**
+  * Some easy to use and automated tool like MailChimp (better tracking and easier outreach) instead of manual emails
+
+* **Any Excel related data storing / analysis**
+  * Excel formulas instead of manual values (data then is simply reliable and valuable and we won't mislead ourselves and contributors)
   
 ### WelcomingCommunity
 
@@ -208,6 +242,7 @@ Considerations
 - Documentation is highly valued, frequently overlooked, and a means for establishing inclusive and accessible communities.
 - Open source is the default when choosing software.
 - Don’t spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project
+- When something is cheaper, more people buy it. That’s why open-source companies have such massive and rapid adoption when they achieve product-market fit.
 - Hiring managers are moving away from hiring outside consultants, increasingly opting to train existing employees on new open source technologies and help them gain certifications.
 - Many organizations are getting involved in open source with the express purpose of attracting developers.
 - OSS question: how easy is it for outsiders to contribute to your organization projects

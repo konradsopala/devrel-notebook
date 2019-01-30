@@ -2,6 +2,8 @@
 
 Developers know how stuff works.Developer experience has evolved so much throught the years that now it takes half a day to setup dev environment while some time ago you opened notepad and you started working.
 
+**Developer Experience is focusing on what's creative and abstracting out the redundant**
+
 ## Table of Contents
 
 * [CoreElements](#corelements)<br>
@@ -24,19 +26,27 @@ Developers know how stuff works.Developer experience has evolved so much through
 ### DeveloperJourney
   
 A developer journey is the route between a developer with no knowledge of a technology and the same developer that feels confident to use it in production and actively share the expertise acquired
-  
-### Tooling
-  
-- Developers right now spend too much time on the tooling and workflows compared to the time they spend on software development
-- Shortcuts in IDEs are key in successful developer tooling
-- IDEs utilizing code reviewing is the future (getting tid of external tools)
-  
+
 **Developer journey stages**
   
 - Exploration (Connect)
 - Getting started (Engage)
 - Guidance (Adopt)
 - Reference (Advocate)
+
+**or**
+
+* Do I want to use it?
+* How do I sign up?
+* How do I get started?
+* How do I use it?
+* How do I get help?
+  
+### Tooling
+  
+- Developers right now spend too much time on the tooling and workflows compared to the time they spend on software development
+- Shortcuts in IDEs are key in successful developer tooling
+- IDEs utilizing code reviewing is the future (getting tid of external tools)
   
 ### Principles
   
@@ -65,6 +75,7 @@ Principles of a great developer experience
 - Help users get started quickly
 - **Know how it feels to walk in the shoes of your audience**
 - **The number one priority for developers is support**
+- Consistency matters the most when it comes to developer content
 - Basically everyone, but developers especially, hates the feeling that they are being sold something.
 - C-level people at companies now worry about access to developers more than they worry about access to capital
 - It's a huge priority for upper management to increase the productivity of its developers

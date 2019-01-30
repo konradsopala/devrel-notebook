@@ -4,6 +4,7 @@ In terms of developer community the core question is: **are they customers or pa
 
 **Most communities are unnecessary to members**
 **Discussion build relationships and relationships build communities**
+* **Community management is about nurturing conversations**
 
 ## Table of contents
 
@@ -12,6 +13,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [CoreMetrics](#coremetrics) <br>
 * [DeveloperWants](#developerwants)<br>
 * [CommunityPersonas](#communitypersonas)<br>
+* [CommunityMigration](#communitymigration)<br>
 * [CommunityLifecycle](#communitylifecycle)<br>
 * [CommunityMemberJourney](#communitymemberjourney)<br>
 * [CommunityGettingStarted](#communitygettingstarted)<br>
@@ -23,6 +25,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [ReleasingBlogposts](#releasingblogposts)<br>
 * [NewslettersEmails](#newslettersemails)<br>
 * [CommunityOrientedInitiatives](#communityorientedinitiatives) <br>
+* [CommunityForum](#communityforum) <br>
 * [Hackathons](#hackathons) <br>
 * [Meetups](#meetups)<br>
 * [UserGroups](#usergroups)<br>
@@ -67,6 +70,14 @@ Developers want to:
 
 - **Co-creators** on the other hand actively shape events they go to or they help organize them. In discussions, both online and in person, they actively contribute new ideas and initiatives without expecting anything in return. If they don’t like something, they bring it up for discussion and provide new ideas and suggestions how to address it. If a conflict arises, they are willing to work through it. They invest their energy, time and money into the organization, because they feel that this community is partially also their own organization and therefore their responsibility to push it forward.
 
+### CommunityMigration
+
+When migrating a community to a new platform:
+
+* **Phase 1** - get your team and top 1% active community members to populate with content
+* **Phase 2** - invite all active members to participate in "beta" of new community
+* **Phase 3** - invite everyone else
+
 ### CommunityLifecycle
 
 - Inception
@@ -74,6 +85,13 @@ Developers want to:
 - Maturity
 - Mitosis
 - Death
+
+**OR**
+
+* Awareness
+* Education
+* Retention
+* Adoption
 
 ### CommunityMemberJourney
 
@@ -126,7 +144,13 @@ Aware -> Engaged -> Achieved
 
 - What % of questions got answered?
 - Reduction in number of reported bugs in software
-- How many people are completing the trial and stay for more
+- How many people are completing the trial and stay for more?
+
+- Is traffic to your community going up or down?
+- What percentage of visitors register?
+- What percentage of registered members participate?
+- What percentage of those that participate are still active in 3 months time?
+- What is the average number of contributions per month your top 1%, 9%, and 90% of members make?
 
 ### ReleasingBlogposts
 
@@ -143,6 +167,11 @@ Aware -> Engaged -> Achieved
 * Polls and surveys
 * Community contests and challenges
 * Community trainings
+
+### CommunityForum
+
+* Community Forum categories are super crucial for
+  * People navigating to find potential solutions (not posting new ones)
 
 ### Hackathons
 
@@ -174,6 +203,7 @@ The best advice to seed your community before launching it is to set-up a longer
 - Communicating with your customers over the course of their lifecycle to help them get to the outcome that they want
 - Be as personal as possible, try not to communicate toward everyone
 - Know your audience
+- Changes in community behaviour takes time (months, years)
 - Understand community members at personal level
 - As a Community Manager your job is to build up the community, not yourself. You succeed if and only if the community succeeds
 - Guiding a community is stressful work. You have to hold yourself to the highest of standards while everyone else gets to be human
@@ -194,3 +224,4 @@ The best advice to seed your community before launching it is to set-up a longer
 - Make the community indispensable to your members
 - Take a look at customer requests, and analyse them carefully. You want to distinguish between what customers ask for, and what they actually need
 - Communicate with users to let them know that you're working on their issues. Even if it's not strictly speaking a docs issue, your communication skills can help product management and support reassure customers who are waiting for new features
+- You shouldn’t forget your existing members. You need to ensure that they are still experiencing the value they were promised
