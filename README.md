@@ -21,3 +21,4 @@ Gold wisdom about everything regarding Developer Relations
 - Presentations
 - DevRel Thoughts
 - Diversity and Inclusion
+- Devrel Product Management
