@@ -4,6 +4,7 @@
 
 * [Principles](#principles)<br>
 * [VisualPrinciples](#visualprinciples) <br>
+* [APISpecification](#apispecification) <br>
 * [Note](#notes)<br>
 
 ### Principles
@@ -20,6 +21,18 @@ Design the API so that it allows programmers to use it in the following way:
 * Design is function
 * First impressions stick
 * Design amplifies your message
+
+### APISpecification
+
+* Tools for API specification
+  - Atom with linter-swagger
+  - SwaggerUI
+  - SwaggerHub
+  - Stoplight
+
+* API Specification preview tools
+  - ReDoc
+  - Speccy
 
 ### Notes
 
