@@ -11,7 +11,7 @@ Developers know how stuff works.Developer experience has evolved so much through
 * [Tooling](#tooling) <br>
 * [Principles](#principles)<br>
 * [Trends](#trends)<br>
-* [Note](#notes)<br>
+* [Notes](#notes)<br>
 
 ### CoreElements
 
@@ -76,6 +76,7 @@ Principles of a great developer experience
 - **Know how it feels to walk in the shoes of your audience**
 - **The number one priority for developers is support**
 - Consistency matters the most when it comes to developer content
+- A good developer experience is making it so a developer will succeed with intuitive decisions rather than informed decisions
 - Basically everyone, but developers especially, hates the feeling that they are being sold something.
 - C-level people at companies now worry about access to developers more than they worry about access to capital
 - It's a huge priority for upper management to increase the productivity of its developers
