@@ -6,6 +6,7 @@ Turning concepts into actions.
 
 * [KPIs](#kpis) <br>
 * [Leadership](#leadership) <br>
+* [Notes](#notes) <br>
 
 ### KPIs
 
@@ -24,3 +25,7 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
   * Constant growth
   * Crafting and executing a vision
   * Empowering your team
+  
+### Notes
+
+* There should be a right balance between KPIs / dashboards and interacting and listening to developer community
