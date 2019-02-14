@@ -7,3 +7,4 @@
 - When you're asked about ROI and you think it's shit just don't come up with some number (**it's about trust**)
 - Not everything of value can be measured
 - To become better and advance in devrel world, I need to think in terms of product
+- Talk about your career development plans whenever you feel like doing so
