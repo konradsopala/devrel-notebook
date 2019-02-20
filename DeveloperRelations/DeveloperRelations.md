@@ -7,6 +7,7 @@
 ## Table of Contents
 
 * [DeveloperRoadmap](#developerroadmap)<br>
+* [DeveloperRelationsProgram](#developerrelationsprogram)<br>
 * [DevRelCycle](#devrelcycle) <br>
 * [DevrelPhases](#devrelphases)<br>
 * [CareModel](#caremodel)<br>
@@ -18,6 +19,16 @@
 
 **Public Roadmaps** - by sharing in advance what you’re planning with your users, you can help them make much smarter long-term decisions.
 
+### DeveloperRelationsProgram
+
+  * **Awareness** - awareness of the platform and what it does
+  * Acquisition**** - sign-up/download/install
+  * **Activation** - actively using the platform in an application
+  * **Retention** - continue to use the platform, use of new/additional features and
+use in new apps
+  * **Revenue** - pay to use the platform
+  * **Referral** - tell others about the platform
+  * **Product** - involvement in building and getting feedback on product
 ### DevRelCycle
 
 ![](/DeveloperRelations/IntroAssets/DevRelCycle.png)
