@@ -22,7 +22,7 @@
 ### DeveloperRelationsProgram
 
   * **Awareness** - awareness of the platform and what it does
-  * Acquisition**** - sign-up/download/install
+  * **Acquisition** - sign-up/download/install
   * **Activation** - actively using the platform in an application
   * **Retention** - continue to use the platform, use of new/additional features and
 use in new apps
