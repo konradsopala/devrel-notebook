@@ -31,5 +31,6 @@ There are no lifetime memberships. Each member has to be reconsidered on a set t
 - Translate feedback to tasks
 - We should advocate generally for open source software because it enables developers to be more creative and more productive
 - When a developer first signs up for your API, you often have just one shot to show them value. Given enough competition, there are no second chances.
+* A person who gave a piece of feedback should know what happened with their feedback and how was it used. That makes them feel heard and keeps them motivated to continue to share more meaningful feedback in the future.
 
 **Developer advocates build communities that generates new advocates**
