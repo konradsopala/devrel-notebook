@@ -8,6 +8,7 @@ Developers know how stuff works.Developer experience has evolved so much through
 
 * [CoreElements](#corelements)<br>
 * [DeveloperJourney](#developerjourney)<br>
+* [InformationArchitecture](#informationarchitecture)<br>
 * [Tooling](#tooling) <br>
 * [Principles](#principles)<br>
 * [Trends](#trends)<br>
@@ -41,6 +42,11 @@ A developer journey is the route between a developer with no knowledge of a tech
 * How do I get started?
 * How do I use it?
 * How do I get help?
+
+### InformationArchitecture
+
+* Home > Docs > API Reference > Payments > General > Credentials.
+  * How do you even navigate to that? And how do you know where you are in the whole environment when you are actually at that article?  
   
 ### Tooling
   
