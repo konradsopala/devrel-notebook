@@ -115,6 +115,14 @@ Aware -> Engaged -> Achieved
 - Identify their interests and motivations
 - Remove barriers to adoption
 
+**Framework for launching communities - C.A.R.G.O** 
+
+* Concept
+* Acquisition
+* Retention
+* Goals
+* Outcome
+
 ### CommunityCommitmentCurve
 
 ![](/DeveloperCommunity/Assets/CommunityCommitmentCurve.png)
