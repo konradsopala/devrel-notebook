@@ -20,6 +20,8 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
   * Active members
   * Questions asked vs Questions answered
   
+  Not everything you can measure, should be measured. Don’t be a data puker, be a data analyst. Be laser focused on the things that matter & provide actionable insights
+  
 ### Leadership
 
   * Constant growth
