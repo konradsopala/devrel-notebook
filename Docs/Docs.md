@@ -1,5 +1,7 @@
 # Docs
 
+Documentation sets the tone for your product's Developer Experience.
+
 ## Table of Contents
 
 * [DocumentationTypes](#documentationtypes)<br>
