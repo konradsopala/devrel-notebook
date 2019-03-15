@@ -9,3 +9,4 @@
 - To become better and advance in devrel world, I need to think in terms of product
 - Talk about your career development plans whenever you feel like doing so
 - When making products we should think about them that what we deliver is a finished even when delivery is incremental
+- If you’re a great external communicator but you can’t get anything shipped for developers because you have no credibility with the product team, you aren’t becoming more senior in the organization.
