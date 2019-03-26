@@ -82,3 +82,4 @@ Documentation sets the tone for your product's Developer Experience.
 - Show people path to expertise instead of making them experts
 - **NOT** writing for yourself than writing for others
 - The audience determines what you write
+- Developers don’t merely read your documentation. They provide input to it and inspect a response. Right from your API reference, they can declare parameters and make live calls to your API
