@@ -2,12 +2,23 @@
 
 ## Table of Contents
 
+* [Definition](#definition) <br>
 * [Intro](#intro) <br>
 * [Elements](#elements) <br>
 * [DeveloperEvangelistChores](#developerevangelistchores) <br>
 * [Core](#core) <br>
 * [Notes](#notes) <br>
 
+### Definition
+
+Developer Evangelism (outbound):
+  - public speaking
+  - attending hackathons and contests
+  - writing sample code and running demos
+  - social media (including technical blogging)
+  - attending events and meetups
+  - hosting office hours
+  
 ### Intro
 
 - **Developer evangelism is the purest form of sales done right**
