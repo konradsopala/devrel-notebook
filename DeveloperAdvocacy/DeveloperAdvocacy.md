@@ -4,9 +4,17 @@ If they like your product, they'll do the advocacy
 
 ## Table of Contents
 
+* [Definitions](#definitions) <br>
 * [Mootivators](#motivators) <br>
 * [Notes](#notes)<br>
 
+### Definitions
+
+- Developer Advocacy (inbound):
+  - represents developers' interests to influence product roadmap
+  - feeds back into the product strategy and roadmap and developer support offering (docs, forums)
+  - defends feature requests
+  
 ### Motivators
 
 We don't want super users to do advocacy for free stuff
