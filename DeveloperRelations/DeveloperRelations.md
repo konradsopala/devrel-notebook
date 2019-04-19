@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+* [Definition](#definition) <br>
 * [DeveloperRoadmap](#developerroadmap)<br>
 * [DeveloperRelationsProgram](#developerrelationsprogram)<br>
 * [DevRelCycle](#devrelcycle) <br>
@@ -14,6 +15,14 @@
 * [DeveloperMarketing](#developermarketing)<br>
 * [Swag](#swag) <br>
 * [Notes](#notes)<br>
+
+### Definition
+
+Developer Relations:
+  - outreach (online and in person)
+  - community
+  - product
+  - education and support
 
 ### DeveloperRoadmap
 
