@@ -6,6 +6,7 @@ Turning concepts into actions.
 
 * [KPIs](#kpis) <br>
 * [Leadership](#leadership) <br>
+* [DevxMaturityPhases](#devxMaturityPhases) <br>
 * [Notes](#notes) <br>
 
 ### KPIs
@@ -27,6 +28,10 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
   * Constant growth
   * Crafting and executing a vision
   * Empowering your team
+  
+### DevxMaturityPhases
+
+![](/DevrelProductManagement/IntroAssets/MaturityPhases.jpg)
   
 ### Notes
 
