@@ -1,6 +1,6 @@
 # Developer Experience
 
-Developers know how stuff works.Developer experience has evolved so much throught the years that now it takes half a day to setup dev environment while some time ago you opened notepad and you started working.
+One of the chief concerns in software design and development is to create an intuitive user experience. However, developers often forget that they actually have two sets of users to consider: the end-user consuming the product, and the other developers using and working on the code itself. Developers know how stuff works.Developer experience has evolved so much throught the years that now it takes half a day to setup dev environment while some time ago you opened notepad and you started working.
 
 **Developer Experience is focusing on what's creative and abstracting out the redundant**
 
