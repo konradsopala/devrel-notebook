@@ -5,6 +5,7 @@ Turning concepts into actions.
 ## Table of Content
 
 * [KPIs](#kpis) <br>
+* [DevrelProgram](#devrelprogram) <br>
 * [Leadership](#leadership) <br>
 * [DevxMaturityPhases](#devxMaturityPhases) <br>
 * [Notes](#notes) <br>
@@ -27,6 +28,33 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
   * **Quality**: Net Promoter Score
   * **Quantity**: Program Members
   * **Activity**: User Engagements
+  
+### DevrelPrograms
+
+* **Developer Support**
+  * Surprise and delight
+  * Make feature lists
+  * Speak like a human
+
+* **Developer Content**
+  * Put a URL on it
+  * Define structure
+  * Design for reuse
+
+* **Outreach**
+  * Go to your audience
+  * Be the living room
+  * Don't follow the crowd
+
+* **Operations**
+  * Make checklists
+  * Automate
+  * Refactor
+
+* **Programs**
+  * Divert distractions
+  * Plan for scale
+  * Keep it simple
   
 ### Leadership
 
