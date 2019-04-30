@@ -23,6 +23,11 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
   
   Not everything you can measure, should be measured. Don’t be a data puker, be a data analyst. Be laser focused on the things that matter & provide actionable insights
   
+ **Developer Experience Metrics**
+  * **Quality**: Net Promoter Score
+  * **Quantity**: Program Members
+  * **Activity**: User Engagements
+  
 ### Leadership
 
   * Constant growth
