@@ -1,5 +1,8 @@
 # OSS
 
+**Two-way trust is required for open source to be successful. The vendor puts its trust in the community and vice versa. And when that trust fails, open source fails. This is when forks happen.
+**
+
 ![](/Open-Source/Assets/OSSProjectsMatter.png)
 
 ## Table of contents
@@ -17,6 +20,7 @@
 * [Strategy](#strategy) <br>
 * [ProjectTransition](#projecttransition) <br>
 * [ProjectChecklist](#projectchecklist) <br>
+* [Engagements](#engagements) <br>
 * [Notes](#notes) <br>
 
 ### GoldThoughts
@@ -236,6 +240,10 @@ Considerations
 * Ensure any changes to direction or governance are clearly communicated
 * Follow best practices of other similar communities
 * Encourage and provide opportunities for face-to-face community building
+
+### Engagements
+
+* A developer can get really involved with a project, the rewards being seeing their changes applied, and their name listed in the change log history.
 
 ### Notes
 
