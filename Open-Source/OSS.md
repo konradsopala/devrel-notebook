@@ -1,7 +1,6 @@
 # OSS
 
-**Two-way trust is required for open source to be successful. The vendor puts its trust in the community and vice versa. And when that trust fails, open source fails. This is when forks happen.
-**
+**Two-way trust is required for open source to be successful. The vendor puts its trust in the community and vice versa. And when that trust fails, open source fails. This is when forks happen.**
 
 ![](/Open-Source/Assets/OSSProjectsMatter.png)
 
