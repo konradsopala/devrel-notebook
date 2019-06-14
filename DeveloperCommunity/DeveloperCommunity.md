@@ -31,6 +31,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [Meetups](#meetups)<br>
 * [UserGroups](#usergroups)<br>
 * [Content](#content)<br>
+* [CommunityProjects](#communityProjects) <br>
 * [Notes](#notes)<br>
 
 ### Intro
@@ -206,6 +207,11 @@ Aware -> Engaged -> Achieved
 ### Content
 
 The best advice to seed your community before launching it is to set-up a longer beta or private invite-only period. You’ll be getting your best users and customer on board in the beginning — They’ll also be able to give you feedback on your community so you can tweak it before launching.
+
+### CommunityProjects
+
+* Don’t assume that you’ll launch the project and be done with it, but make a plan instead to maintain it, scale it and recruit others in the community to help keep it growing
+* Make sure to recognize and reward community participation in your project! That’s essential to earning long-term commitment from maintainers and keeping your project welcoming and healthy.
 
 ### Notes
 
