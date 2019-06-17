@@ -6,6 +6,7 @@
 
 ## Table of contents
 
+* [Glossary](#glossary) <br>
 * [GoldThoughts](#goldthoughts) <br>
 * [HealthMetrics](#healthmetrics) <br>
 * [Members](#members) <br>
@@ -22,6 +23,12 @@
 * [Engagements](#engagements) <br>
 * [Notes](#notes) <br>
 
+### Glossary
+
+* **OSPO - Open Source Programs Office**
+  * Establishes policies, process, tools and culture change around open source engagement
+  * Someone or a team who are advocating for open source
+  
 ### GoldThoughts
 * Remember that the number itself isn’t the goal — it’s the process of tracking them over time and finding patterns in the data that can inform project and process improvements.
 * “If you have more than 100 code repositories or 100 people that you’re trying to manage, you really can’t have someone doing it manually with spreadsheets anymore. Obviously, people still do it that way. But it starts to become ad hoc and laborious. That’s where tools come into play. They allow you to scale.” 
