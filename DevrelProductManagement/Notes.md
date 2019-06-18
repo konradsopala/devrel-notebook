@@ -4,11 +4,16 @@ Turning concepts into actions.
 
 ## Table of Content
 
+* [AAARRRPModel](#aaarrrpmodel) <br>
 * [KPIs](#kpis) <br>
 * [DevrelProgram](#devrelprogram) <br>
 * [Leadership](#leadership) <br>
 * [DevxMaturityPhases](#devxMaturityPhases) <br>
 * [Notes](#notes) <br>
+
+### AAARRRPModel
+
+![](/DevrelProductManagement/IntroAssets/aaarrrp.jpg)
 
 ### KPIs
 
