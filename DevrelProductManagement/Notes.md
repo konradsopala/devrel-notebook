@@ -5,6 +5,7 @@ Turning concepts into actions.
 ## Table of Content
 
 * [AAARRRPModel](#aaarrrpmodel) <br>
+* [DevrelPillars](#devrelPillars) <br>
 * [KPIs](#kpis) <br>
 * [DevrelProgram](#devrelprogram) <br>
 * [Leadership](#leadership) <br>
@@ -14,6 +15,14 @@ Turning concepts into actions.
 ### AAARRRPModel
 
 ![](/DevrelProductManagement/IntroAssets/aaarrrp.jpg)
+
+### DevrelPillars
+
+**3 C's Model**
+
+* Code
+* Content
+* Community
 
 ### KPIs
 
