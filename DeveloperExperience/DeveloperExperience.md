@@ -12,6 +12,7 @@ One of the chief concerns in software design and development is to create an int
 * [Tooling](#tooling) <br>
 * [Principles](#principles)<br>
 * [Trends](#trends)<br>
+* [UpdateSharing](#updateSharing) <br>
 * [Notes](#notes)<br>
 
 ### CoreElements
@@ -70,6 +71,20 @@ Principles of a great developer experience
   
 - **2018**
   - Developer companies tend to go into long website instead of multi-tab websites
+  
+### UpdateSharing
+
+Types of changes important for notyfying devs:
+
+* New big product launches (**the least important**)
+* Additional features & updates (**medium important**)
+* Deprecations (**most important**)
+
+**Always ask yourself those questions about changes:**
+
+* How many users does this impact?
+* Will this require them to do additional work?
+* Will this break anything?
   
 ### Notes
   
