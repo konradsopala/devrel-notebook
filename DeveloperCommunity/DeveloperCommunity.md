@@ -12,6 +12,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [Intro](#intro)<br>
 * [CommunityCanvas](#communitycanvas)<br>
 * [CoreMetrics](#coremetrics) <br>
+* [Design](#design) <br>
 * [DeveloperWants](#developerwants)<br>
 * [CommunityPersonas](#communitypersonas)<br>
 * [CommunityMigration](#communitymigration)<br>
@@ -55,6 +56,10 @@ In terms of developer community the core question is: **are they customers or pa
 * Average number of posts per member
 * Number of members who upgraded to paying accounts
 * Number who joined 6 months ago and are still active
+
+### Design
+
+* Designing the logo of community so it can have some local flavours added when spread across the world
 
 ### DeveloperWants
 
