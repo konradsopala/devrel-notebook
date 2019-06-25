@@ -142,6 +142,8 @@ Aware -> Engaged -> Achieved
 
 ### CommunityOnboarding
 
+**Onboarding and keeping developers is key**
+
 - Make them feel welcomed and comfortable
 - Give specific, simple steps to get started
 - Don't overwhelm with too much info/tasks
