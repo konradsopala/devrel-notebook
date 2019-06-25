@@ -94,6 +94,7 @@ Types of changes important for notyfying devs:
 - Developers spend almost 50% of their time on legacy code
 - Great experience lead to great engagement
 - Developer experience has become more complex since developers are using tools to do multiple things rather than a single thing
+- We should always be optimizing for developer joy
 - Help users get started quickly
 - **Know how it feels to walk in the shoes of your audience**
 - **The number one priority for developers is support**
