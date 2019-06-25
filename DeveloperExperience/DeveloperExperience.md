@@ -17,6 +17,7 @@ One of the chief concerns in software design and development is to create an int
 
 ### CoreElements
 
+- Onboarding and keeping developers
 - Effort
 - Energy
 - Empathy
