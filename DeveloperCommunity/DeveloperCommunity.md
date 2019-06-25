@@ -14,6 +14,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [CoreMetrics](#coremetrics) <br>
 * [Design](#design) <br>
 * [DeveloperWants](#developerwants)<br>
+* [DeveloperHappiness](#developerHappiness) <br>
 * [CommunityPersonas](#communitypersonas)<br>
 * [CommunityMigration](#communitymigration)<br>
 * [CommunityLifecycle](#communitylifecycle)<br>
@@ -68,6 +69,12 @@ Developers want to:
 - Find information quickly
 - Have proof points
 - Not face bad marketing
+
+### DeveloperHappiness
+
+* 1. Messaging + first touch
+* 2. Speed to success
+* 3. Reference projects / materials / DevPortal / docs
 
 ### CommunityPersonas
 
