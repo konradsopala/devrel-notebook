@@ -66,6 +66,7 @@ use in new apps
 
 ### Notes
 
+- People will follow when you're being your authentic self
 - Hard to measure
 - Subjective
 - Developers are not only in US and Europe
