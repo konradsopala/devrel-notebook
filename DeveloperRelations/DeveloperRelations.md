@@ -85,3 +85,4 @@ use in new apps
 - If you're developing any kind of developer products you need to spend money on DevRel
 - If you handle developer relations social media, **write as you not as we**
 - Developer won't use tools that they don't trust
+- Developer Relations professionals need to give shit
