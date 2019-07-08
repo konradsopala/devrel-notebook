@@ -19,6 +19,8 @@
 
 ### Definition
 
+![](/DeveloperRelations/IntroAssets/DevrelTriangle.png)
+
 Developer Relations:
   - outreach (online and in person)
   - community
