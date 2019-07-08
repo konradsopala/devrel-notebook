@@ -1,6 +1,7 @@
 # Developer Relations (building trust at scale)
 
-**There is no off-the record. It is about genuinely advocating for developer needs in a form of your product**
+* **There is no off-the record. It is about genuinely advocating for developer needs in a form of your product**
+* **Developer relations is a ajob not a lifestyle!**
 
 ![](/DeveloperRelations/IntroAssets/DeveloperRelations.png)
 
