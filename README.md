@@ -9,6 +9,7 @@ Gold wisdom about everything regarding Developer Relations
 - Developer Community
 - Developer Evangelism
 - Developer Experience
+- Developer Education
 - Developer Relations
 - DevRel Life
 - DevRel Space
