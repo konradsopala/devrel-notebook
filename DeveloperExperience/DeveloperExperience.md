@@ -1,8 +1,9 @@
 # Developer Experience
 
-Developers know how stuff works.Developer experience has evolved so much throught the years that now it takes half a day to setup dev environment while some time ago you opened notepad and you started working.
+One of the chief concerns in software design and development is to create an intuitive user experience. However, developers often forget that they actually have two sets of users to consider: the end-user consuming the product, and the other developers using and working on the code itself. Developers know how stuff works.Developer experience has evolved so much throught the years that now it takes half a day to setup dev environment while some time ago you opened notepad and you started working.
 
-**Developer Experience is focusing on what's creative and abstracting out the redundant**
+* **Developer Experience is focusing on what's creative and abstracting out the redundant**
+* **We can't assume developers know what they're doing**
 
 ## Table of Contents
 
@@ -12,10 +13,12 @@ Developers know how stuff works.Developer experience has evolved so much through
 * [Tooling](#tooling) <br>
 * [Principles](#principles)<br>
 * [Trends](#trends)<br>
+* [UpdateSharing](#updateSharing) <br>
 * [Notes](#notes)<br>
 
 ### CoreElements
 
+- Onboarding and keeping developers
 - Effort
 - Energy
 - Empathy
@@ -71,6 +74,20 @@ Principles of a great developer experience
 - **2018**
   - Developer companies tend to go into long website instead of multi-tab websites
   
+### UpdateSharing
+
+Types of changes important for notyfying devs:
+
+* New big product launches (**the least important**)
+* Additional features & updates (**medium important**)
+* Deprecations (**most important**)
+
+**Always ask yourself those questions about changes:**
+
+* How many users does this impact?
+* Will this require them to do additional work?
+* Will this break anything?
+  
 ### Notes
   
 - Most of the users uninstall the app if they notice freeze, crash or an error
@@ -78,6 +95,7 @@ Principles of a great developer experience
 - Developers spend almost 50% of their time on legacy code
 - Great experience lead to great engagement
 - Developer experience has become more complex since developers are using tools to do multiple things rather than a single thing
+- We should always be optimizing for developer joy
 - Help users get started quickly
 - **Know how it feels to walk in the shoes of your audience**
 - **The number one priority for developers is support**

@@ -4,10 +4,25 @@ Turning concepts into actions.
 
 ## Table of Content
 
+* [AAARRRPModel](#aaarrrpmodel) <br>
+* [DevrelPillars](#devrelPillars) <br>
 * [KPIs](#kpis) <br>
+* [DevrelProgram](#devrelprogram) <br>
 * [Leadership](#leadership) <br>
 * [DevxMaturityPhases](#devxMaturityPhases) <br>
 * [Notes](#notes) <br>
+
+### AAARRRPModel
+
+![](/DevrelProductManagement/IntroAssets/aaarrrp.jpg)
+
+### DevrelPillars
+
+**3 C's Model**
+
+* Code
+* Content
+* Community
 
 ### KPIs
 
@@ -23,6 +38,38 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
   
   Not everything you can measure, should be measured. Don’t be a data puker, be a data analyst. Be laser focused on the things that matter & provide actionable insights
   
+ **Developer Experience Metrics**
+  * **Quality**: Net Promoter Score
+  * **Quantity**: Program Members
+  * **Activity**: User Engagements
+  
+### DevrelPrograms
+
+* **Developer Support**
+  * Surprise and delight
+  * Make feature lists
+  * Speak like a human
+
+* **Developer Content**
+  * Put a URL on it
+  * Define structure
+  * Design for reuse
+
+* **Outreach**
+  * Go to your audience
+  * Be the living room
+  * Don't follow the crowd
+
+* **Operations**
+  * Make checklists
+  * Automate
+  * Refactor
+
+* **Programs**
+  * Divert distractions
+  * Plan for scale
+  * Keep it simple
+  
 ### Leadership
 
   * Constant growth
@@ -36,3 +83,4 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
 ### Notes
 
 * There should be a right balance between KPIs / dashboards and interacting and listening to developer community
+* Always try to learn something new

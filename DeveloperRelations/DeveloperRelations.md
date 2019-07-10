@@ -1,6 +1,7 @@
 # Developer Relations (building trust at scale)
 
-**There is no off-the record. It is about genuinely advocating for developer needs in a form of your product**
+* **There is no off-the record. It is about genuinely advocating for developer needs in a form of your product**
+* **Developer relations is a ajob not a lifestyle!**
 
 ![](/DeveloperRelations/IntroAssets/DeveloperRelations.png)
 
@@ -17,6 +18,8 @@
 * [Notes](#notes)<br>
 
 ### Definition
+
+![](/DeveloperRelations/IntroAssets/DevrelTriangle.png)
 
 Developer Relations:
   - outreach (online and in person)
@@ -66,6 +69,7 @@ use in new apps
 
 ### Notes
 
+- People will follow when you're being your authentic self
 - Hard to measure
 - Subjective
 - Developers are not only in US and Europe
@@ -84,3 +88,5 @@ use in new apps
 - It takes time to get developers to love you. It requires trust building, living by their values, thinking and speaking like them. Do it for a long enough time so that they understand you are one of them. 
 - If you're developing any kind of developer products you need to spend money on DevRel
 - If you handle developer relations social media, **write as you not as we**
+- Developer won't use tools that they don't trust
+- Developer Relations professionals need to give shit

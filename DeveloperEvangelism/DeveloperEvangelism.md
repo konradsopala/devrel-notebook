@@ -27,6 +27,8 @@ Developer Evangelism (outbound):
 
 ### Elements
 
+Developer evangelism can be split into:
+
 - Public speaking
 - Social Media
 - Conferences
@@ -36,6 +38,12 @@ Developer Evangelism (outbound):
 - Demos
 - Office Hours
 - Events sponsoring
+
+**but also:**
+
+- In **Words**
+- In **Person**
+- In **Code**
 
 ### DeveloperEvangelistChores
 

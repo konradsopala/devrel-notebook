@@ -12,7 +12,10 @@ In terms of developer community the core question is: **are they customers or pa
 * [Intro](#intro)<br>
 * [CommunityCanvas](#communitycanvas)<br>
 * [CoreMetrics](#coremetrics) <br>
+* [AmbassadorPrograms](#ambaassadorPrograms) <br>
+* [Design](#design) <br>
 * [DeveloperWants](#developerwants)<br>
+* [DeveloperHappiness](#developerHappiness) <br>
 * [CommunityPersonas](#communitypersonas)<br>
 * [CommunityMigration](#communitymigration)<br>
 * [CommunityLifecycle](#communitylifecycle)<br>
@@ -31,6 +34,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [Meetups](#meetups)<br>
 * [UserGroups](#usergroups)<br>
 * [Content](#content)<br>
+* [CommunityProjects](#communityProjects) <br>
 * [Notes](#notes)<br>
 
 ### Intro
@@ -55,6 +59,14 @@ In terms of developer community the core question is: **are they customers or pa
 * Number of members who upgraded to paying accounts
 * Number who joined 6 months ago and are still active
 
+### AmbassadorPrograms
+
+* **Goal**: build a worldwide group of individuals looking to generate awareness and adoption of your product
+
+### Design
+
+* Designing the logo of community so it can have some local flavours added when spread across the world
+
 ### DeveloperWants
 
 Developers want to:
@@ -62,6 +74,12 @@ Developers want to:
 - Find information quickly
 - Have proof points
 - Not face bad marketing
+
+### DeveloperHappiness
+
+* 1. Messaging + first touch
+* 2. Speed to success
+* 3. Reference projects / materials / DevPortal / docs
 
 ### CommunityPersonas
 
@@ -136,6 +154,8 @@ Aware -> Engaged -> Achieved
 
 ### CommunityOnboarding
 
+**Onboarding and keeping developers is key**
+
 - Make them feel welcomed and comfortable
 - Give specific, simple steps to get started
 - Don't overwhelm with too much info/tasks
@@ -207,6 +227,11 @@ Aware -> Engaged -> Achieved
 
 The best advice to seed your community before launching it is to set-up a longer beta or private invite-only period. You’ll be getting your best users and customer on board in the beginning — They’ll also be able to give you feedback on your community so you can tweak it before launching.
 
+### CommunityProjects
+
+* Don’t assume that you’ll launch the project and be done with it, but make a plan instead to maintain it, scale it and recruit others in the community to help keep it growing
+* Make sure to recognize and reward community participation in your project! That’s essential to earning long-term commitment from maintainers and keeping your project welcoming and healthy.
+
 ### Notes
 
 - Communicating with your customers over the course of their lifecycle to help them get to the outcome that they want
@@ -235,3 +260,4 @@ The best advice to seed your community before launching it is to set-up a longer
 - Take a look at customer requests, and analyse them carefully. You want to distinguish between what customers ask for, and what they actually need
 - Communicate with users to let them know that you're working on their issues. Even if it's not strictly speaking a docs issue, your communication skills can help product management and support reassure customers who are waiting for new features
 - You shouldn’t forget your existing members. You need to ensure that they are still experiencing the value they were promised
+- We should always be optimizing for developer joy

@@ -1,9 +1,12 @@
 # OSS
 
+**Two-way trust is required for open source to be successful. The vendor puts its trust in the community and vice versa. And when that trust fails, open source fails. This is when forks happen.**
+
 ![](/Open-Source/Assets/OSSProjectsMatter.png)
 
 ## Table of contents
 
+* [Glossary](#glossary) <br>
 * [GoldThoughts](#goldthoughts) <br>
 * [HealthMetrics](#healthmetrics) <br>
 * [Members](#members) <br>
@@ -17,8 +20,15 @@
 * [Strategy](#strategy) <br>
 * [ProjectTransition](#projecttransition) <br>
 * [ProjectChecklist](#projectchecklist) <br>
+* [Engagements](#engagements) <br>
 * [Notes](#notes) <br>
 
+### Glossary
+
+* **OSPO - Open Source Programs Office**
+  * Establishes policies, process, tools and culture change around open source engagement
+  * Someone or a team who are advocating for open source
+  
 ### GoldThoughts
 * Remember that the number itself isn’t the goal — it’s the process of tracking them over time and finding patterns in the data that can inform project and process improvements.
 * “If you have more than 100 code repositories or 100 people that you’re trying to manage, you really can’t have someone doing it manually with spreadsheets anymore. Obviously, people still do it that way. But it starts to become ad hoc and laborious. That’s where tools come into play. They allow you to scale.” 
@@ -236,6 +246,10 @@ Considerations
 * Ensure any changes to direction or governance are clearly communicated
 * Follow best practices of other similar communities
 * Encourage and provide opportunities for face-to-face community building
+
+### Engagements
+
+* A developer can get really involved with a project, the rewards being seeing their changes applied, and their name listed in the change log history.
 
 ### Notes
 
