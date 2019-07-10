@@ -10,6 +10,8 @@ Notes on building successful DevRel teams
 
 ### TeamStructure
 
+![](/DevrelTeams/IntroAssets/DevrelTeam.png)
+
 There are three key roles that you need in your devrel team:
 
 * **The Evangelist**
