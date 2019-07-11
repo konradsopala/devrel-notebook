@@ -13,6 +13,7 @@ Gold wisdom about everything regarding Developer Relations
 - Developer Relations
 - DevRel Life
 - DevRel Space
+- Developer Portals
 - Hackathons
 - Reports
 - Docs
