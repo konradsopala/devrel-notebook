@@ -2,7 +2,7 @@
 
 ## Table of content
 
-* [DeveloperPortalElements)(#developerPortalElements) <br>
+* [DeveloperPortalElements](#developerPortalElements) <br>
 
 ### DeveloperPortalElements
 
