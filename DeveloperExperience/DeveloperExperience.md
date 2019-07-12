@@ -7,6 +7,7 @@ One of the chief concerns in software design and development is to create an int
 
 ## Table of Contents
 
+* [GoldenRule](#goldenRule) <br>
 * [CoreElements](#corelements)<br>
 * [DeveloperJourney](#developerjourney)<br>
 * [InformationArchitecture](#informationarchitecture)<br>
@@ -15,6 +16,14 @@ One of the chief concerns in software design and development is to create an int
 * [Trends](#trends)<br>
 * [UpdateSharing](#updateSharing) <br>
 * [Notes](#notes)<br>
+
+### GoldenRule
+
+**3:30:3 rule**
+
+* 3 seconds to understand the purpose of the API
+* 30 seconds to identify the entry point
+* 3 minutes to create an account and call the system
 
 ### CoreElements
 
