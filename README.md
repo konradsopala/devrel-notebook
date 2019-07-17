@@ -25,3 +25,4 @@ Gold wisdom about everything regarding Developer Relations
 - Diversity and Inclusion
 - Devrel Product Management
 - Developer Product Engineering
+- Developer Communication
