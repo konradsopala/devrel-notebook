@@ -84,3 +84,5 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
 
 * There should be a right balance between KPIs / dashboards and interacting and listening to developer community
 * Always try to learn something new
+* Upgrade your users not your product
+* Making users better at what they want to do not thinking what you want them to do
