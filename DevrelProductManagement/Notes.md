@@ -6,6 +6,7 @@ Turning concepts into actions.
 
 * [AAARRRPModel](#aaarrrpmodel) <br>
 * [DevrelPillars](#devrelPillars) <br>
+* [DevrelFields](#devrelFields) <br>
 * [KPIs](#kpis) <br>
 * [DevrelProgram](#devrelprogram) <br>
 * [Leadership](#leadership) <br>
@@ -24,6 +25,12 @@ Turning concepts into actions.
 * Content
 * Community
 
+### devrelFields
+
+![](/DevrelProductManagement/IntroAssets/DevrelFields.png)
+
+![](/DevrelProductManagement/IntroAssets/DevrelFields2.png)
+
 ### KPIs
 
 Without a quantifiable sense of where you are vs. where you were, you can’t know (in any meaningful way) whether you’ve succeeded or not.
@@ -35,14 +42,14 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
   * Number of new signups and discussions
   * Active members
   * Questions asked vs Questions answered
-  
+
   Not everything you can measure, should be measured. Don’t be a data puker, be a data analyst. Be laser focused on the things that matter & provide actionable insights
-  
+
  **Developer Experience Metrics**
   * **Quality**: Net Promoter Score
   * **Quantity**: Program Members
   * **Activity**: User Engagements
-  
+
 ### DevrelPrograms
 
 * **Developer Support**
@@ -69,17 +76,17 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
   * Divert distractions
   * Plan for scale
   * Keep it simple
-  
+
 ### Leadership
 
   * Constant growth
   * Crafting and executing a vision
   * Empowering your team
-  
+
 ### DevxMaturityPhases
 
 ![](/DevrelProductManagement/IntroAssets/MaturityPhases.jpg)
-  
+
 ### Notes
 
 * There should be a right balance between KPIs / dashboards and interacting and listening to developer community
