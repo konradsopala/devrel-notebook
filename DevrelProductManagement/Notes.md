@@ -93,3 +93,5 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
 * Always try to learn something new
 * Upgrade your users not your product
 * Making users better at what they want to do not thinking what you want them to do
+* Developers don't have much time
+* They want to hack your product to their usecases
