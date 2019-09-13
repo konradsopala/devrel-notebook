@@ -2,8 +2,19 @@
 
 ## Table of Contents
 
+* [HackathonsMarketing](#hackathonsMarketing) <br>
 * [InternalHackathons](#internalHackathons) <br>
 * [Notes](#notes)<br>
+
+### HackathonsMarketing
+
+**Hackathon Marketing Tasks**
+
+![](/Hackathons/IntroAssets/HackathonMarketingTasks.jpg)
+
+**Hackathon Social Media Accounts**
+
+![](/Hackathons/IntroAssets/HackathonSocialMediaAccounts.jpg)
 
 ### InternalHackathons
 
