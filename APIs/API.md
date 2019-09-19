@@ -5,6 +5,7 @@
 * [Principles](#principles)<br>
 * [VisualPrinciples](#visualprinciples) <br>
 * [APISpecification](#apispecification) <br>
+* [WorstPractices](#worstPractices) <br>
 * [Note](#notes)<br>
 
 ### Principles
@@ -33,6 +34,19 @@ Design the API so that it allows programmers to use it in the following way:
 * API Specification preview tools
   - ReDoc
   - Speccy
+  
+### WorstPractices
+
+* 1. Poor documentation
+* 2. Inadequate support
+* 3. Assume if you build it they will come
+* 4. Expect an MVC framework 'gives' you a great API
+* 5. Poor developer experience
+* 6. Unexpected & undocumented releases
+* 7. Security complexity
+* 8. Exposing your raw underlying data model
+* 9. REST APIs that ignore HTTP rules
+* 10. Poor error handling
 
 ### Notes
 
