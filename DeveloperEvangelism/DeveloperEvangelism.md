@@ -19,6 +19,8 @@ Developer Evangelism (outbound):
   - attending events and meetups
   - hosting office hours
   
+ Developer evangelism is usally covering failures of product.
+  
 ### Intro
 
 - **Developer evangelism is the purest form of sales done right**
