@@ -1,6 +1,6 @@
 # Devrel Product Management
 
-Turning concepts into actions.
+Turning concepts into actions. Sharing knowledge not features.
 
 ## Table of Content
 
