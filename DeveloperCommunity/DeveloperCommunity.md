@@ -26,6 +26,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [CommunityOnboarding](#communityonboarding)<br>
 * [IncreasingParticipation](#increasingparticipation)<br>
 * [SuccessMetrics](#successmetrics) <br>
+* [SocialHealthMetrics](#socialHealthMetrics) <br>
 * [ReleasingBlogposts](#releasingblogposts)<br>
 * [NewslettersEmails](#newslettersemails)<br>
 * [CommunityOrientedInitiatives](#communityorientedinitiatives) <br>
@@ -180,6 +181,15 @@ Aware -> Engaged -> Achieved
 - What percentage of registered members participate?
 - What percentage of those that participate are still active in 3 months time?
 - What is the average number of contributions per month your top 1%, 9%, and 90% of members make?
+
+### SocialHealthMetric
+
+How healthy and sfe your community is?
+
+* Demographics
+* Stickiness
+* Engagement rate
+* Member satisfaction
 
 ### ReleasingBlogposts
 
