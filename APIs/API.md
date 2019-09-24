@@ -1,4 +1,6 @@
-# API
+# APIs
+
+![](/API/IntroAssets/APIPhilosophy.png)
 
 ## Table of Contents
 
@@ -34,7 +36,7 @@ Design the API so that it allows programmers to use it in the following way:
 * API Specification preview tools
   - ReDoc
   - Speccy
-  
+
 ### WorstPractices
 
 * 1. Poor documentation
