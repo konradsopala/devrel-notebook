@@ -1,6 +1,6 @@
 # APIs
 
-![](/API/IntroAssets/APIPhilosophy.png)
+![](/APIs/IntroAssets/APIPhilosophy.png)
 
 ## Table of Contents
 
