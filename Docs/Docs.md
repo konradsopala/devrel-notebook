@@ -7,6 +7,7 @@ Documentation sets the tone for your product's Developer Experience.
 * [DocumentationTypes](#documentationtypes)<br>
 * [DocsNavigation](#docsnavigation)<br>
 * [DocsTone](#docstone)<br>
+* [DocsAsCode](#docsAsCode) <br>
 * [ErrorMeesages](#errormessages)<br>
 * [ProTips](#protips)<br>
 * [Notes](#notes)<br>
@@ -52,6 +53,10 @@ Documentation sets the tone for your product's Developer Experience.
 - Consistent
 - Current
 
+### DocsAsCode
+
+* Docs as code refers to a philosophy that you should be writing documentation with the same tools as code
+
 ### ErrorMessages
 
 **Error messages should be:**
@@ -79,7 +84,9 @@ Documentation sets the tone for your product's Developer Experience.
 
 ### Notes
 
-- Show people path to expertise instead of making them experts
-- **NOT** writing for yourself than writing for others
-- The audience determines what you write
-- Developers don’t merely read your documentation. They provide input to it and inspect a response. Right from your API reference, they can declare parameters and make live calls to your API
+* Show people path to expertise instead of making them experts
+* **NOT** writing for yourself than writing for others
+* The audience determines what you write
+* Developers don’t merely read your documentation. They provide input to it and inspect a response. Right from your API reference, they can declare parameters and make live calls to your API
+* Documentation is a part of the product, not a byproduct of the code
+
