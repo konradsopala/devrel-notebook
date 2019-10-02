@@ -96,3 +96,4 @@ Without a quantifiable sense of where you are vs. where you were, you can’t kn
 * Developers don't have much time
 * They want to hack your product to their usecases
 * Representation matters
+* There is no point trying to fix something the organisation doesn't want to fix - Maria Ogneva
