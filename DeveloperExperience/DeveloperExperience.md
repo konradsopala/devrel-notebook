@@ -117,3 +117,5 @@ Types of changes important for notyfying devs:
   - Software infrastructure
   - R&D
   - Recruiting technical talent
+- Think of developer experience as a buying process funnel
+  - Check till which step your developers succeed
