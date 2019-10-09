@@ -21,6 +21,7 @@
 * [ProjectTransition](#projecttransition) <br>
 * [ProjectChecklist](#projectchecklist) <br>
 * [Engagements](#engagements) <br>
+* [Licensing](#licensing) <br>
 * [Notes](#notes) <br>
 
 ### Glossary
@@ -250,6 +251,10 @@ Considerations
 ### Engagements
 
 * A developer can get really involved with a project, the rewards being seeing their changes applied, and their name listed in the change log history.
+
+### Licensing
+
+* Even without adding a license to your repo, you have the explicit right for your code
 
 ### Notes
 
