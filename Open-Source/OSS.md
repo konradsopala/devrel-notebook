@@ -265,3 +265,4 @@ Considerations
 - Hiring managers are moving away from hiring outside consultants, increasingly opting to train existing employees on new open source technologies and help them gain certifications.
 - Many organizations are getting involved in open source with the express purpose of attracting developers.
 - OSS question: how easy is it for outsiders to contribute to your organization projects
+- No contribution is too big or too small
