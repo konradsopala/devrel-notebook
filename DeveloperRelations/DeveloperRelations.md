@@ -2,6 +2,7 @@
 
 * **There is no off-the record. It is about genuinely advocating for developer needs in a form of your product**
 * **Developer relations is a ajob not a lifestyle!**
+* **DevRels must go where the Devs are so that they can Rel with them.**
 
 ![](/DeveloperRelations/IntroAssets/DeveloperRelations.png)
 
