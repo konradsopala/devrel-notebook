@@ -36,6 +36,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [Meetups](#meetups)<br>
 * [UserGroups](#usergroups)<br>
 * [Content](#content)<br>
+* [Contributions](#contributions) <br>
 * [CommunityProjects](#communityProjects) <br>
 * [Notes](#notes)<br>
 
@@ -253,6 +254,12 @@ Other metrics:
 ### Content
 
 The best advice to seed your community before launching it is to set-up a longer beta or private invite-only period. You’ll be getting your best users and customer on board in the beginning — They’ll also be able to give you feedback on your community so you can tweak it before launching.
+
+### Contributions
+
+* Users with profile pictures post more often than those without a profile picture (they also recieve more replies)
+* Users on average contribute 2-3 times per year
+* A healthy community has an average of 2-3 replies per post
 
 ### CommunityProjects
 
