@@ -12,6 +12,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [Intro](#intro)<br>
 * [CommunityCanvas](#communitycanvas)<br>
 * [CoreMetrics](#coremetrics) <br>
+* [StrategyTips](#strategyTips) <br>
 * [AmbassadorPrograms](#ambaassadorPrograms) <br>
 * [Design](#design) <br>
 * [DeveloperWants](#developerwants)<br>
@@ -59,6 +60,17 @@ In terms of developer community the core question is: **are they customers or pa
 * Average number of posts per member
 * Number of members who upgraded to paying accounts
 * Number who joined 6 months ago and are still active
+
+### StrategyTips
+
+* Make sure questions are answered
+* Proactive outreach to encourage additional engagement
+    * Mark best answers
+    * Reply to others' posts on related topics
+* Encourage less intimidating engagement actions for those who haven't yet posted
+* Users might be inactive but they are listening
+* "We miss you emails"
+* 
 
 ### AmbassadorPrograms
 
@@ -182,7 +194,7 @@ Aware -> Engaged -> Achieved
 - What percentage of those that participate are still active in 3 months time?
 - What is the average number of contributions per month your top 1%, 9%, and 90% of members make?
 
-### SocialHealthMetric
+### SocialHealthMetrics
 
 How healthy and sfe your community is?
 
@@ -190,6 +202,11 @@ How healthy and sfe your community is?
 * Stickiness
 * Engagement rate
 * Member satisfaction
+
+Other metrics:
+
+* **Activity** is defined as a ratio of the number of items created for each active user in the community
+* **Reach** is defined as the ratio of users that are active in the community compared to the available audience
 
 ### ReleasingBlogposts
 
