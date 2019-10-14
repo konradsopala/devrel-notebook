@@ -109,6 +109,10 @@ Developers want to:
 * **Influence** - I have influence over what this community is like
 * **Fulfillment** - I get important needs of mine met because I am part of this community
 * **Connection** - Members of this community have shared important events together
+* **Boundaries** - It is very important for me to be in this community
+* **Safety** - I can trust people in this community
+* **Belonging** - Being a member of this community is part of my identity
+* **Investment** - I put a lot of time and effort into this community
 
 ### CommunityMigration
 
