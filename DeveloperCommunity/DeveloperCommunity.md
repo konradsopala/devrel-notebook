@@ -18,6 +18,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [DeveloperWants](#developerwants)<br>
 * [DeveloperHappiness](#developerHappiness) <br>
 * [CommunityPersonas](#communitypersonas)<br>
+* [CommunityFeelings](#communityFeelings) <br>
 * [CommunityMigration](#communitymigration)<br>
 * [CommunityLifecycle](#communitylifecycle)<br>
 * [CommunityMemberJourney](#communitymemberjourney)<br>
@@ -102,6 +103,12 @@ Developers want to:
 - **Consumers** in a community come with an expectation to be served: they attend events, at events they listen to speakers, in the online community they read or sometimes react to things, but usually only when it seems useful to them. If they don’t like something in the community, they complain or disengage. They feel that leading the community is someone else’s responsibility and they are mostly in the community for opportunistic reasons.
 
 - **Co-creators** on the other hand actively shape events they go to or they help organize them. In discussions, both online and in person, they actively contribute new ideas and initiatives without expecting anything in return. If they don’t like something, they bring it up for discussion and provide new ideas and suggestions how to address it. If a conflict arises, they are willing to work through it. They invest their energy, time and money into the organization, because they feel that this community is partially also their own organization and therefore their responsibility to push it forward.
+
+### CommunityFeelings
+
+* **Influence** - I have influence over what this community is like
+* **Fulfillment** - I get important needs of mine met because I am part of this community
+* **Connection** - Members of this community have shared important events together
 
 ### CommunityMigration
 
