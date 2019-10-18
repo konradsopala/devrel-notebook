@@ -6,6 +6,7 @@ In terms of developer community the core question is: **are they customers or pa
 * **Discussion build relationships and relationships build communities**
 * **Community management is about nurturing conversations**
 * **You need to explicitly ask your community for its needs**
+* **Main purpose of the community is to empower users to share knowledge with each other**
 
 ## Table of contents
 
