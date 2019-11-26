@@ -17,6 +17,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [AmbassadorPrograms](#ambaassadorPrograms) <br>
 * [Design](#design) <br>
 * [CommunityDailyAnalytics](#communityDailyAnalytics) <br>
+* [CommunityTwitterDailyAnalytics](#communityTwitterDailyAnalytics) <br>
 * [DeveloperWants](#developerwants)<br>
 * [DeveloperHappiness](#developerHappiness) <br>
 * [CommunityPersonas](#communitypersonas)<br>
@@ -90,7 +91,12 @@ In terms of developer community the core question is: **are they customers or pa
 * Likes
 * Signups
 * Topics created
-* Posts created 
+* Posts created
+
+### CommunityTwitterDailyAnalytics
+
+* New folllowers
+* New likes
 
 ### DeveloperWants
 
