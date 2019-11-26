@@ -16,6 +16,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [StrategyTips](#strategyTips) <br>
 * [AmbassadorPrograms](#ambaassadorPrograms) <br>
 * [Design](#design) <br>
+* [CommunityDailyAnalytics](#communityDailyAnalytics) <br>
 * [DeveloperWants](#developerwants)<br>
 * [DeveloperHappiness](#developerHappiness) <br>
 * [CommunityPersonas](#communitypersonas)<br>
@@ -73,7 +74,6 @@ In terms of developer community the core question is: **are they customers or pa
 * Encourage less intimidating engagement actions for those who haven't yet posted
 * Users might be inactive but they are listening
 * "We miss you emails"
-* 
 
 ### AmbassadorPrograms
 
@@ -82,6 +82,15 @@ In terms of developer community the core question is: **are they customers or pa
 ### Design
 
 * Designing the logo of community so it can have some local flavours added when spread across the world
+
+### CommunityDailyAnalytics
+
+* Pageviews
+* User visits
+* Likes
+* Signups
+* Topics created
+* Posts created 
 
 ### DeveloperWants
 
