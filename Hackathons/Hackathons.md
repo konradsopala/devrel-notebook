@@ -4,6 +4,7 @@
 
 * [HackathonsMarketing](#hackathonsMarketing) <br>
 * [InternalHackathons](#internalHackathons) <br>
+* [HackathonGoals](#hackathonGoals) <br>
 * [Notes](#notes)<br>
 
 ### HackathonsMarketing
@@ -26,6 +27,17 @@ What they are for?
 * Build and strengthen relationships among employees
 * Create an opportunity for individuals to test, create and share new ideas
 
+### HackathonGoals
+
+* R&D
+* Community Building
+* Feedback
+* Driving adoption
+* Recruitment
+* Support Sales
+* Skills Increase
+
 ### Notes
 
 - Sponsors are like investors. You should approach them when doing well
+- Can take up from 4 - 36 hours
