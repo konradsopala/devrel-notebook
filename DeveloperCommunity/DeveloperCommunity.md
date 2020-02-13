@@ -13,6 +13,7 @@ In terms of developer community the core question is: **are they customers or pa
 * [Intro](#intro)<br>
 * [CommunityCanvas](#communitycanvas)<br>
 * [CoreMetrics](#coremetrics) <br>
+* [CommunityReflection](#communityReflection) <br>
 * [StrategyTips](#strategyTips) <br>
 * [AmbassadorPrograms](#ambaassadorPrograms) <br>
 * [Design](#design) <br>
@@ -65,6 +66,15 @@ In terms of developer community the core question is: **are they customers or pa
 * Average number of posts per member
 * Number of members who upgraded to paying accounts
 * Number who joined 6 months ago and are still active
+
+### CommunityReflection
+
+Do such audit at least twice a year
+
+* What are the challenges for your community audience?
+* Who are your community personas?
+* Who are the key people within your org?
+* Why community should matter to them?
 
 ### StrategyTips
 
