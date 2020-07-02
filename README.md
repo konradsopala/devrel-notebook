@@ -57,7 +57,7 @@ Here are some notes on building successful DevRel Teams. There are three key rol
 * **The Evangelist**
  * Just as the name suggests, these are the people who stand on stages and preach to thousands of developers about a particular tool or product that makes building software worthwhile. They are the PR face of the company and attend various conferences and meetups to share information about a product, collect first-hand feedback and show off killer slides with memes.
 
-* **The Facilitatotr / Educator**
+* **The Facilitator / Educator**
  * Developers need the materials behind your product – from documentation to quick start guides. This is what facilitators and educators do; they provide the backbone support for developers to enable them to find their way around your product. You’ll also find them running technical training events and speaking at workshops and meetups. They may not be the most outgoing of the bunch but their product knowledge and knack for making complex topics digestible is priceless.
 
 * **The Organiser**
