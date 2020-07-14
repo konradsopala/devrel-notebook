@@ -15,6 +15,7 @@
 
 * [General](#general) <br>
 * [DevrelManager](#devrelManager) <br>
+* [BusinessModels](#businessModels) <br>
 * [KPIs](#kpis) <br>
 
 ### General
@@ -52,6 +53,13 @@ If you want to become a successful Devrel team / org , Developer Product Manager
 
 Apart from all that do not forget about constant growth, crafting and executing a vision and above all empowering your team!
 
+### BusinessModels
+
+Based on Hoopy.io State of Devrel Report organizations that practice DevRel fall into two business models:
+
+* **Developer First**: the primary business model of the company is B2D (Business to Developer). For example, Stripe and Twilio.
+* **Developer Plus**: a company's primary business model is B2B or B2C, but a developer play, extends or supports the primary business model. For example: Slack, Spotify, Apple.
+
 ### KPIs
 
 This applies to pretty much everyone, not only managers. If you don't measure your efforts and performance you don't know if you make progress. Without a quantifiable sense of where you are vs. where you were, you can’t know (in any meaningful way) whether you’ve succeeded or not.
@@ -86,13 +94,13 @@ This applies to pretty much everyone, not only managers. If you don't measure yo
   * Number of members who upgraded to paying accounts
   * Number who joined 6 months ago and are still active
 
-**Developer Experience Metrics**
+* **Developer Experience Metrics**
   * **Quality**: Net Promoter Score
   * **Quantity**: Program Members
   * **Activity**: User Engagements
   * How many developers are completing the trial and stay for more?
 
-**GitHub Repos Health Metrics**
+* **GitHub Repos Health Metrics**
   * **Contributor-Breadth**:  the ratio of non-core committers to core committers. This metric indicates how open a community is to contributions from outside
   * **Contributor-Demographics**:  gender, age, location, education, and skills over time
   * **Contributors**: number of contributors
@@ -117,5 +125,13 @@ This applies to pretty much everyone, not only managers. If you don't measure yo
   * **PRsOpen**: number of opened pull requests
   * **PRsOverTime**: how many pull requests have been submitted over time
   * **NewContributorsMaintainers**: ratio of new contributors to maintainers
+  
+* **General Metrics**
+  * Content Created
+  * Signups
+  * API Calls -> Revenue
+  * Social Media Numbers
+  * NPS
+  * Stack Overflow Activity
 
 Remember that the number itself isn’t the goal — it’s the process of tracking them over time and finding patterns in the data that can inform project and process improvements. Not everything you can measure, should be measured. Don’t be a data puker, be a data analyst. Be laser focused on the things that matter & provide actionable insights
