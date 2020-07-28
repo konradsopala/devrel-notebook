@@ -248,6 +248,7 @@ Let's assume you have something built and you want to open source it. Here's an 
 * Open source is the default when choosing software
 * Many organizations are getting involved in open source with the express purpose of attracting developers
 * No contribution is too big or too small
+* Younger developers contribute more to open source - to learn and have fun
 
 ### Notes
 
