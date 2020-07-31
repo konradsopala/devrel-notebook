@@ -48,8 +48,6 @@ but also read some more or less [loose notes](https://github.com/DevrelSpace/Dev
 
 ![](/Assets/DevRelCycle.png)
 
-**Developer Relations Team**
-
 ### DevrelTeam
 
 Here are some notes on building successful DevRel Teams. There are three key roles that you need in your devrel team:
