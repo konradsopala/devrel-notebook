@@ -17,6 +17,7 @@
 * [DeveloperCommunityCanvas](#developerCommunityCanvas) <br>
 * [DeveloperCommunityPersonas](#developerCommunityPersonas) <br>
 * [DeveloperCommunityPortals](#developerCommunityPortals) <br>
+* [DeveloperPrograms](#developerPrograms) <br>
 * [Notes](#notes) <br>
 
 ### DeveloperCommunity
@@ -170,6 +171,10 @@ When migrating a developer community to a new platform:
 * **Phase 1** - get your team and top 1% active community members to populate with content
 * **Phase 2** - invite all active members to participate in "beta" of new community
 * **Phase 3** - invite everyone else
+
+### DeveloperPrograms
+
+Here are some notes on crafting successful developer programs. The core idea to remember is that your programs should be crafted with the purpose of leading the developer through this journey, measuring each step to determine where developers are getting stuck.
 
 ### Notes
 
