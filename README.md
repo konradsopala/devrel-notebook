@@ -30,14 +30,28 @@ but also read some more or less [loose notes](https://github.com/DevrelSpace/Dev
 ![](/Assets/DevrelTriangle.png)
 
 **Developer Relations is about**:
-  * Outreach (online and in person)
-  * Community
-  * Product
-  * Education and support
+
+* Outreach (online and in person)
+* Community
+* Product
+* Education and support
 
 ![](/Assets/DeveloperRelations.png)
 
-**Developer Relations core elements:**
+**Developer Relations Funnel**
+
+In order to be able to do solid DevRel, you need to fulfill certain needs of your developer audience that can be divided into folllowing categories:
+
+* Basic Needs
+* Psychological Needs
+* Self-fulfillment
+
+All of those are shown on the figure below:
+
+![](/Assets/DeveloperRelationsFunnel.png)
+
+**Developer Relations Core Elements:**
+
 * **Awareness** - awareness of the platform and what it does
 * **Acquisition** - sign-up/download/install
 * **Activation** - actively using the platform in an application
@@ -48,9 +62,9 @@ but also read some more or less [loose notes](https://github.com/DevrelSpace/Dev
 
 ![](/Assets/DevRelCycle.png)
 
-### DevrelTeam
+**DevRel Team**
 
-Here are some notes on building successful DevRel Teams. There are three key roles that you need in your devrel team:
+Here are some notes on building successful DevRel Teams. There are three key roles that you need in your DevRel team:
 
 * **The Evangelist**
  * Just as the name suggests, these are the people who stand on stages and preach to thousands of developers about a particular tool or product that makes building software worthwhile. They are the PR face of the company and attend various conferences and meetups to share information about a product, collect first-hand feedback and show off killer slides with memes.
