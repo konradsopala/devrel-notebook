@@ -41,7 +41,16 @@ Another thing worth diving in is developer journey. A developer journey is the r
 
 **Developers right now spend too much time on the tooling and workflows compared to the time they spend on software development**
 
-### DevexPrinciples
+### DevExPrinciples
+
+**The Gold Ratio**
+
+Developer experience is not always about easy implementation. It's about ratio:
+
+* **Low**: Fewer steps in tutorial, but didn't learn anything useful
+* **High**: more steps, but accomplished more goals that otherwise possible
+* **High**: Spend little time and everythign worked!
+* **Zero**: Spent a lot of time but nothing worked
 
 **Information Architecture**
 
@@ -72,6 +81,25 @@ Here are some core principles of great developer experience:
 * Backwards compatible API updates
 * Aligned incentives with developers
 * Quality of assets and processes available to developers
+* Learning should be incremental
+* Treat workarounds as bugs
+* "Magic" is frustrating
+
+**Measurements**
+
+* Check how many of these a developer needs to do to accomplish a goal:
+    * Unrelated tasks
+    * Required prerequisites
+    * Steps
+    * Snippets copied
+    * Google searches
+    * Docs
+    * CLI commands
+    * Clicks
+    * Context switches
+    * Mistakes
+    * Wasted efforts
+    * Decisions
 
 ### API
 
